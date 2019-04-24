@@ -1,0 +1,18 @@
+---
+title: "Statcheck"
+author: "Lauren Oey"
+date: "4/24/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(statcheck)
+
+# checkPDF() doesn't seem to be working
+
+checkHTMLdir("htmls/")
+```
