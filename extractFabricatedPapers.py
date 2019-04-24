@@ -12,5 +12,12 @@ with open('fabricatedPapers.csv', 'w') as csv_file:
 	for t in soup.find_all('span', attrs={'class':'rTitleNotIE'}):
 		print(t.get_text())
 
+	year = pass
+	authors = pass
+	title = pass
+	journal = pass
+
+	for i in rowOfTable:
+		writer.writerow({'year': year, 'authors': authors, 'title': title, 'journal': journal})
 	csv_file.close()
 	db.close()
