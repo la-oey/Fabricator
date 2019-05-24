@@ -1,0 +1,295 @@
+6 9 2 5 2 4 PSSXXX10.1177/0956797617692524
+research-article2017
+
+Retraction
+Retraction of "Unlocking Past Emotion: Verb Use Affects Mood and Happiness"
+
+Psychological Science 1 (c) The Author(s) 2017 Reprints and permissions: sagepub.com/journalsPermissions.nav hDttOpsI:://d1o0i.1or1g7/170/.01197576/70995766719761972659224524 www.psychologicalscience.org/PS
+
+The following article has been retracted by the Editor and publishers of Psychological Science:
+Hart, W. (2013). Unlocking past emotion: Verb use affects mood and happiness. Psychological Science, 24, 19-26. doi: 10.1177/0956797612446351
+The retraction follows an investigation by the University of Alabama's Office for Research Compliance. That investigation found that a former graduate student in William Hart's lab altered the data in strategic ways. The investigation found that William Hart was unaware when the article was published that the data had been manipulated. William Hart cooperated in the investigation and agreed to this retraction.
+
+Research Article
+RETRACTED: Unlocking Past Emotion: Verb Use Affects Mood and Happiness
+
+Psychological Science 24(1) 19-26 (c) The Author(s) 2013 Reprints and permission: sagepub.com/journalsPermissions.nav DOI: 10.1177/0956797612446351 http://pss.sagepub.com
+
+William Hart
+University of Alabama
+
+RETRACTED
+
+Abstract
+In the research reported here, I examined whether the verbs applied to descriptions of past emotional experiences influence present mood and happiness. Participants who described a positive experience using the imperfective aspect, which implies ongoing progression, subsequently reported more positive mood and greater happiness than did participants who described a positive experience using the perfective aspect, which implies completion; likewise, participants who described a negative experience using the imperfective aspect subsequently reported more negative mood and less happiness than did participants who described a negative experience using the perfective aspect. These effects were traced to enhanced memory for the described emotional experience in the imperfective condition relative to the perfective condition. The findings demonstrate how formal features of language shape both the reinstatement of past affective reactions and happiness judgments, and may have practical applications for improving subjective well-being.
+
+Keywords happiness, language-thought relation, memory, mood, self-disclosure, language, social cognition
+Received 12/22/11; Revision accepted 3/31/12
+
+For better or worse, people's moods and judgments of their current happiness are shaped by the emotional nature of recalled personal experiences. For example, recurrent thoughts of a past trauma may produce paralyzing anxiety that interferes with daily functioning, and recurrent thoughts of a past happy experience may produce a positive mood and contribute to happiness. Apparently, recalling an emotional experience requires reinstating the affective reactions that were registered during the experience (Barsalou, 2008; Niedenthal, Barsalou, Ric, & Krauth-Gruber, 2005), and accessible personal experiences are disproportionately weighted in happiness judgments (Kahneman, Krueger, Schkade, Schwarz, & Stone, 2006; Schwarz, Strack, & Mai, 1991).
+The research reported here addressed how affective reinstatement and happiness judgments are influenced by the way in which emotional experiences are mentally structured in verbal descriptions. In particular, I examined whether the verbs applied to descriptions of past emotional experiences influence mood and happiness. The relations between mood and memory (Brewin, Reynolds, & Tata, 1999; Dalgleish & Watts, 1990; Singer & Salovey, 1988) and between self-disclosure and well-being (Frattaroli, 2006; Pennebaker & Chung, 2011) have long been topics of multidisciplinary interest within psychology, which signals that this research should appeal to a broad audience.
+
+In four experiments, I tested whether the verb aspect applied to a description of a past personal emotional experience influenced judgments of current happiness or the reinstatement of the affect associated with the experience. Specifically, I examined the effects of using verbs marked with the imperfective aspect and the perfective aspect in descriptions of personal emotional experiences (Comrie, 1976). The imperfective aspect represents an experience as ongoing (as in the sentence I was crying), whereas the perfective aspect represents an experience as completed (as in the sentence I cried). Although aspect may seem inconsequential for understanding how memories influence mood or happiness, I propose that the aspect used in describing past emotional experiences can influence memory for them and thereby influence current mood and happiness.
+Prior research has provided insights into how verb aspect influences cognition and behavior. In a narrative-comprehension study (Madden & Zwaan, 2003), participants read descriptions of events that employed either the imperfective aspect (e.g., "He was making a fire") or the perfective aspect
+Corresponding Author: William Hart, Department of Psychology, University of Alabama,Tuscaloosa, AL 35487 E-mail: wphart@ua.edu
+
+20
+
+Hart
+
+RETRACTED
+
+(e.g., "He made a fire") and then selected pictures that matched their mental images of the described events. As anticipated, participants were more likely to choose pictures showing completed events than pictures showing ongoing events after reading descriptions that employed the perfective aspect.
+Related research showed that events conveyed using the imperfective (vs. perfective) aspect increased the retrieval of event-related knowledge, as indexed by subjective reports of how detailed the mental representation of the event was and by objective measures of knowledge activation (Hart & Albarracin, 2011; Magliano & Schleich, 2000; Zwaan & Radvansky, 1998). Furthermore, one study showed that using the imperfective (vs. perfective) aspect in descriptions of one's own past behavior enhances the retrieval of behavior-relevant knowledge and the tendency to repeat this behavior (Hart & Albarracin, 2009).
+The present research addressed whether the verb aspect used in self-disclosures of past emotional experiences influences mood and happiness. With regard to mood, I hypothesized that using the imperfective (vs. perfective) aspect to describe a pleasant past experience should more effectively reinstate the positive affect associated with that experience (and should result in a more positive mood). Likewise, I predicted that using the imperfective (vs. perfective) aspect to describe an unpleasant past experience would more effectively reinstate the negative affect associated with that experience (and should result in a more negative mood).
+These ideas seem plausible because if using the imperfective (vs. perfective) aspect enhances memory for a described experience (Hart & Albarracin, 2009), it should effectively reinstate the affect associated with that experience (Barsalou, 1999; Niedenthal et al., 2005). Indeed, in one study, participants asked to recall more information about an emotional experience demonstrated greater reinstatement of the associated affect (Strack, Schwarz, & Gschneidinger, 1985). Furthermore, because affect and behavior are intertwined (Niedenthal et al., 2005), the prior finding that using the imperfective (vs. perfective) aspect more effectively leads to the reinstatement of past behavior (Hart & Albarracin, 2009) hints that using the imperfective (vs. perfective) aspect might more effectively reinstate past affect, too.
+With regard to happiness, I hypothesized that using the imperfective aspect to describe an unpleasant past experience should reduce happiness compared with using the perfective aspect, and that using the imperfective aspect to describe a pleasant past experience should enhance happiness compared with using the perfective aspect. These hypotheses seem reasonable because if memory for a described experience is enhanced through the use of the imperfective aspect (Hart & Albarracin, 2009), then that experience should be weighted more heavily in happiness judgments (Kahneman et al., 2006). These hypotheses are logically consistent with findings showing that when a primed experience is represented as completed (vs. ongoing), its effects on behavior and cognition are reduced (Fiedler, Schenk, Watling, & Menges, 2005; Martin, Tesser, & McIntosh, 1993; Sparrow & Wegner, 2006; Zeigarnik, 1967).
+
+In four experiments, I examined the effect of representing past emotional experiences as either ongoing or completed (a function of aspect) on current mood and happiness. Participants reported a past personal experience that was unpleasant (Experiments 1, 2, and 3a), pleasant (Experiments 2, 3a, and 3b), or affectively neutral (Experiment 1); they next described the experience using verbs marked with either the perfective aspect or the imperfective aspect and then completed various explicit measures (Experiments 2, 3a, and 3b) or implicit measures (Experiment 1) of current mood and, in Experiments 1 and 3a, a measure of happiness.
+In Experiments 3a and 3b, immediately after participants completed their description, I measured their memory for experience-relevant knowledge. I predicted that in Experiment 3a, participants who used the imperfective (vs. perfective) aspect to describe an experience would more quickly recognize words relevant to the experience. Because using the imperfective aspect should enhance memory for knowledge relevant to an experience, it should also facilitate the recognition of words relevant to the experience. In an attempt to find convergent evidence for this mechanism, in Experiment 3b, I used subjective reports of memory (e.g., "How detailed was your memory for the experience?") as a measure of experience-relevant knowledge. If using the imperfective (vs. perfective) aspect improves memory for a described experience, then participants who use the imperfective (vs. perfective) aspect to describe an experience should report more detailed memory for it.
+Experiment 1
+One hundred twenty-three participants were seated in cubicles, where they received instructions and completed tasks using a computer. Participants were randomly assigned to report a past experience that was either neutral or negative. Subsequently, they were randomly assigned to describe this experience using either the perfective aspect or the imperfective aspect. Participants first completed a tutorial that distinguished between the two aspects using neutral examples (Hart & Albarracin, 2009); next, they were asked to type six sentences about their experience into the computer. In the perfectiveaspect condition, participants were prompted by the questions "What happened?" "What did you do?" "What did you feel?" and "What did you think about?" In the imperfective-aspect condition, participants were prompted by the questions "What was happening?" "What were you doing?" "What were you feeling?" and "What were you thinking about?" Data from 6 participants (perfective-aspect condition: n = 2; imperfectiveaspect condition: n = 4) were discarded because the participants ignored the verb-aspect instructions.
+Participants then completed an implicit mood measure and answered questions about their level of happiness. Because sadness (compared with happiness) orients attention more toward details than patterns (Clore et al., 2001), attentional focus has been used as a measure of implicit mood (Gasper &
+
+Unlocking Past Emotion
+
+21
+
+RETRACTED
+
+Clore, 2002). The implicit mood measure entailed 12 trials; each trial consisted of the presentation of a target figure and two comparison figures, one that matched the global shape of the target and one that matched the local shapes of the target (Maier, Elliot, & Lichtenfeld, 2008). On each trial, participants decided which of the two comparison figures best matched the target. The selection of a comparison figure whose global shape matched that of the target figure would suggest greater global (as opposed to local) attentional focus, and thus more positive mood. For each participant, I summed the number of global-matched selections ( = .85).
+To measure happiness, I had participants rate their current level of happiness, using a scale from 0 (unhappy) to 10 (happy), and their satisfaction with life, using a scale from 0 (unsatisfied) to 10 (satisfied; Strack et al., 1985); participants were told that these ratings were of interest to a university panel. Responses to the two items were averaged to create a happiness index (r = .76). Finally, participants rated how much effort they had required to compose their descriptions, using a scale from 1 (little effort) to 10 (much effort).1
+Because of a programming error, mood was not recorded for 4 participants (perfective-aspect condition: n = 1; imperfectiveaspect condition: n = 3). The number of global-matched selections was submitted to a 2 (aspect: perfective vs. imperfective) x 2 (described experience: neutral vs. negative) analysis of variance (ANOVA). The analysis yielded the predicted twoway interaction, F(1, 109) = 4.70, p = .03 (Table 1). Within the negative-experience condition, participants in the imperfective-aspect condition made fewer global-matched selections (indicating more negative mood) than did participants in the perfective-aspect condition, t(109) = -2.40, p = .02. Within the neutral-experience condition, aspect had no effect on the number of global-matched selections, t < 0.70. Thus, as expected, recalling a negative experience using imperfective (vs. perfective) verbs worsened mood; in contrast, recalling a neutral experience using imperfective verbs had no effect on mood.
+Next, happiness was entered into a 2 (aspect: perfective vs. imperfective) x 2 (described experience: neutral vs. negative) ANOVA. The analysis yielded the predicted two-way interaction, F(1, 113) = 3.93, p = .05 (Table 2). Within the negativeexperience condition, participants in the imperfective-aspect condition reported less happiness than did participants in the perfective-aspect condition, t(113) = -2.70, p = .01. Presumably, because the use of the imperfective (vs. perfective) aspect enhanced memory for the described negative experience, this negative experience was weighted more heavily in happiness judgments. Within the neutral-experience condition, aspect had no effect on happiness, t < 0.15.2,3
+Experiment 2
+In Experiment 2, participants described positive and negative experiences that were created in the lab, and I then measured participants' mood. This method made it possible to determine whether the effects of aspect on mood generalized to
+
+Table 1. Number of Global-Matched Selections in Experiment 1
+
+Described experience
+
+Verb-aspect condition Negative
+
+Neutral Cohen's d
+
+Imperfective Perfective
+Cohen's d
+
+8.51 (2.90) 10.29 (2.77)
+-0.62*
+
+10.45 (2.37) 10.00 (2.93)
+0.17
+
+-0.73* 0.10
+
+Note: The number of global-matched selections served as an index of mood; a greater number of global-matched selections indicated greater global (as opposed to local) attentional focus, and hence more positive mood. Standard deviations are shown in parentheses. Asterisks indicate values significantly different from zero (p < .05).
+
+descriptions of positive and recent experiences. The use of the imperfective (vs. perfective) aspect has been shown to enhance memory for recent laboratory-based experiences (Hart & Albarracin, 2009), and enhanced memory for a recent emotional experience should correspond to a heightened affective response (Barsalou, 2008; Strack et al., 1985). Although my results using the implicit mood measure in Experiment 1 were promising, establishing the pattern of results using an explicit mood measure would bolster confidence in the effect. Therefore, in Experiment 2, mood was measured using the Positive and Negative Affect Schedule (PANAS; Watson, Clark, & Tellegen, 1988).
+One-hundred twenty-nine participants were randomly assigned to either a positive-experience condition or a negative-experience condition and were given 6 min to complete 12 five-letter anagrams, a task participants had been told was a well-validated test of verbal intelligence. Participants in the positive-experience condition worked on 12 rather easy anagrams (e.g., "LGRAE"; Gilhooly & Johnson, 1978). Participants in the negative-experience condition worked on six rather difficult anagrams (e.g., "HAENY"; Gilhooly & Johnson, 1978) and six unsolvable anagrams (e.g., "ACELO").
+Subsequently, I told participants that I was interested in their experience during the task. Participants were randomly assigned to describe their experience using either the perfective or the imperfective aspect; the procedure for this task was the same as that used in Experiment 1. Data from 7 participants (perfective-aspect condition: n = 3; imperfective-aspect condition: n = 4) were discarded because the participants
+
+Table 2. Happiness Ratings in Experiment 1
+
+Described experience
+
+Verb-aspect condition Negative
+
+Neutral Cohen's d
+
+Imperfective Perfective
+Cohen's d
+
+7.02 (2.14) 8.40 (1.60)
+-0.73*
+
+8.42 (1.97) 8.37 (2.04)
+-0.02
+
+-0.69* 0.02
+
+Note: Standard deviations are shown in parentheses. Asterisks indicate values significantly different from zero (p < .05).
+
+22
+
+Hart
+
+RETRACTED
+
+disregarded the verb-aspect instructions. Next, participants indicated their mood using the PANAS after being told that the data were of interest to a review panel. Scores for positive items were summed to create an overall positive-mood score ( = .88); scores for negative items were summed to create an overall negative-mood score ( = .89). I created a composite measure of mood by subtracting the negative-mood score from the positive-mood score. Finally, participants rated how much effort they had required to compose their descriptions, using a scale from 1 (little effort) to 10 (much effort).
+Data from 2 participants (perfective-aspect condition: n = 1; imperfective-aspect condition: n = 1) were discarded because the participants indicated suspicion about the purpose of the experiment. Discarding these data did not change the pattern of results.
+Mood was submitted to a 2 (aspect: perfective vs. imperfective) x 2 (described experience: positive vs. negative) ANOVA. The analysis yielded the predicted two-way interaction, F(1, 116) = 7.86, p = .01 (Table 3). Within the negative-experience condition, participants in the imperfective-aspect condition reported a more negative mood than did participants in the perfective-aspect condition, t(116) = -2.00, p = .05. Within the positive-experience condition, participants in the imperfective-aspect condition reported a more positive mood than did participants in the perfective-aspect condition, t(116) = 1.97, p = .051. In sum, recalling a recent positive experience using imperfective (vs. perfective) verbs improved mood, whereas recalling a recent negative experience using imperfective (vs. perfective) verbs worsened mood.
+In Experiments 3a and 3b, I sought to determine whether the effect of verb aspect on mood and happiness could be attributed to an enhancement of memory for the described experience caused by using imperfective verbs. To provide a more encompassing understanding of the mechanism (or mechanisms) that could account for the results, I measured additional mechanisms in Experiment 3a. Because prior research has linked affect reinstatement to the recollection of memories from a first-person (vs. third-person) imagery perspective (Berntsen & Rubin, 2006) and to conscious thought about how (vs. why) an experience unfolded (Strack et al., 1985), Experiment 3a included measures of these mechanisms.
+
+Table 3. Self-Reported Mood in Experiment 2
+
+Described experience
+
+Verb-aspect condition Positive
+
+Negative Cohen's d
+
+Imperfective Perfective
+Cohen's d
+
+17.17 (10.22) 11.36 (10.34)
+0.56*
+
+2.33 (11.47) 7.88 (11.69)
+-0.48*
+
+1.33* 0.31
+
+Note: Standard deviations are shown in parentheses. Asterisks indicate values significantly different from zero (p < .05).
+
+Experiment 3a
+Method
+One hundred twenty participants were randomly assigned to a described-experience condition (positive vs. negative) and an aspect condition (perfective vs. imperfective) and completed an anagram task and described the experience following the same procedures used in Experiment 2. After participants completed their descriptions, I had them complete a lexical decision task to assess their memory for the experience of completing the anagram task. The lexical decision task consisted of 16 trials. Each trial began with the presentation of a fixation cross for 2 s; the cross was followed by the presentation of a letter string (either a word or a nonword) that remained on the screen until the participant responded. (Participants completed a practice lexical decision task beforehand to familiarize themselves with the task.) Across the 16 trials, four anagram-task-relevant (target) words ("anagram," "rearrange," "sort," "assemble"), four control words ("keyboard," "computer," "key," "spacebar"), and eight nonwords were presented in random order. Participants indicated whether each letter string formed a word or a nonword by pressing one of two keys. I assumed that the speed of participants' responses to the target words was proportionate to the activation of the anagram-task experience in memory, and that the speed of participants' responses to the control words represented a baseline reaction speed.
+I averaged each participant's response latencies for target words on correct trials and then took the natural log of this average (Shah, 2003). Response latencies for control words were computed similarly. Although I used natural-log-transformed scores in my analyses, I present the untransformed scores here. Latencies for incorrect decisions were not analyzed. Error rates did not differ systematically across conditions (overall M = 0.8%).
+After completing the lexical decision task, participants completed three separate measures of mood, using 10-point scales (scale anchors: 0 = bad, 9 = good; 0 = unpleasant, 9 = pleasant; 0 = negative, 9 = positive). Reponses were averaged to create a mood index ( = .92). Next, participants completed the two measures of happiness used in Experiment 1; responses to the two items were averaged to create a happiness index. Subsequently, participants completed additional process measures linked to affect reinstatement and happiness. Participants indicated the extent to which they imagined the anagram-task experience they had described from a first-person or a thirdperson perspective, using a scale from 1 (completely first person) to 10 (completely third person; see Libby & Eibach, 2011), and indicated the extent to which they had thought about how and why the experience happened during the description task, using scales from 1 (not at all) to 10 (extremely). Finally, participants rated how much effort they had required to compose their descriptions, using a scale from 1 (little effort) to 10 (much effort). Data from 6 participants
+
+RETRACTED
+
+Unlocking Past Emotion
+
+23
+
+(perfective-aspect condition: n = 2; imperfective-aspect condition: n = 4) were discarded because the participants disregarded the verb-aspect instructions.
+Results
+Memory. I ran an analysis of covariance with described experience and aspect as the two independent variables, response latency for target words as the dependent variable, and response latency for control words as a covariate. This analysis yielded only the anticipated effect of aspect, F(1, 109) = 36.03, p = .001. Latencies were shorter in the imperfectiveaspect condition (M = 650.26 ms, SE = 13.06) than in the perfective-aspect condition (M = 756.21 ms, SE = 12.89; Hart & Albarracin, 2009), a result suggesting enhanced memory for the anagram-task experience in the imperfective condition.
+Mood. Mood was submitted to a 2 (aspect: perfective vs. imperfective) x 2 (described experience: positive vs. negative) ANOVA. The analysis yielded a significant two-way interaction, F(1, 110) = 16.50, p = .01 (Table 4). Within the negativeexperience condition, participants in the imperfective-aspect condition reported a more negative mood than did participants in the perfective-aspect condition, t(110) = -3.00, p = .003. Within the positive-experience condition, participants in the imperfective-aspect condition reported a more positive mood than did participants in the perfective-aspect condition, t(110) = 2.75, p = .007.
+I regressed response latencies for the target words on mood (controlling for aspect and latencies for control words). Within the positive-experience condition, there was a negative association between response latencies and mood,  = -0.74, p = .001. Stated differently, participants whose memory for the positive anagram-task experience was better had a more positive mood. Within the negative-experience condition, there was a positive association between response latencies and mood,  = 0.66, p = .001. Stated differently, participants whose memory for the negative anagram-task experience was better had a more negative mood.
+Because the effect of the mediator (response latencies for target words) on mood appeared to be moderated by described experience, I tested for moderated mediation using the
+
+PROCESS method (Hayes, 2012). In this analysis, aspect was the independent variable, mood was the dependent variable, response latencies for target words was the mediator, response latencies for control words was the covariate (for the mediator), and described experience was the moderator of the path between the mediator and the dependent variable. As expected, the analysis revealed that the indirect effect of aspect on mood via response latencies was moderated by described experience, t(109) = -6.14, p = .001. PROCESS estimated the 95% confidence interval (CI) for the (conditional) indirect effects of aspect on mood via response latency within each described-experience condition, using 5,000 bootstrapped samples. Within the negative-experience condition, the 95% CI was [-0.39, -0.08]. Within the positive-experience condition, the 95% CI was [0.10, 0.33]. Given that neither interval included zero, the effect of aspect on mood was apparently mediated by memory for the experience in both described-experience conditions.
+Happiness. Happiness was submitted to a 2 (aspect: perfective vs. imperfective) x 2 (described experience: positive vs. negative) ANOVA. The analysis yielded a significant two-way interaction, F(1, 110) = 11.01, p = .001 (Table 5). Within the negative-experience condition, participants in the imperfectiveaspect condition reported less happiness than did participants in the perfective-aspect condition, t(110) = -2.61, p = .01. Within the positive-experience condition, participants in the imperfective-aspect condition reported more happiness than did participants in the perfective-aspect condition, t(110) = 2.07, p = .04.
+I regressed response latencies for the target words on happiness (controlling for aspect and response latencies for control words). Within the positive-experience condition, there was a negative correlation between response latencies and mood,  = -0.65, p = .001. Stated differently, participants whose memory for the positive anagram-task experience was better were happier. Within the negative-experience condition, there was a positive correlation between response latencies and mood,  = 0.77, p = .001. Stated differently, participants whose memory for the negative anagram-task experience was better were less happy.
+I conducted a moderated-mediation analysis identical to the one previously described except with happiness as the dependent variable. Evidence for moderated mediation was present,
+
+Table 4. Self-Reported Mood in Experiment 3a
+
+Table 5. Happiness Ratings in Experiment 3a
+
+Described experience
+
+Verb-aspect condition
+
+Positive
+
+Negative Cohen's d
+
+Imperfective Perfective
+Cohen's d
+
+7.75 (2.07) 6.09 (2.20)
+0.77*
+
+4.83 (2.40) 6.73 (2.28)
+-0.76*
+
+1.22* -0.22
+
+Note: Standard deviations are shown in parentheses. Asterisks indicate values significantly different from zero (p < .05).
+
+Described experience
+
+Verb-aspect condition Positive
+
+Negative Cohen's d
+
+Imperfective Perfective
+Cohen's d
+
+8.89 (2.14) 7.67 (2.29)
+0.55*
+
+6.57 (2.23) 8.15 (2.31)
+-0.69*
+
+1.06* -0.21
+
+Note: Standard deviations are shown in parentheses. Asterisks indicate values significantly different from zero (p < .05).
+
+24
+
+Hart
+
+RETRACTED
+
+t(109) = -3.34, p = .001. Within the negative-experience condition, the 95% CI for the indirect effect was [-0.58, 0.02]. Although the 95% CI contained zero, the 90% CI for this indirect effect was [-0.54, -0.04], a result suggesting marginal mediation. Within the positive-experience condition, the 95% CI for the indirect effect was [0.001, 0.61]. In both the positive-experience condition and the negative-experience condition, the effect of aspect on happiness was at least marginally mediated by memory for the experience.4
+Other process measures. Aspect had neither a main nor an interactive effect on imagery perspective (F < 0.06).5 Likewise, aspect had neither a main nor an interactive effect on conscious thought directed at how the experience had happened (Fs < 1.0) or at why it had happened (Fs < 1.2).6 It therefore seems unlikely that verb aspect influenced mood or happiness via these mechanisms.
+Experiment 3b
+Experiment 3b used an efficient two-cell design to provide convergent support for the memory-based mechanism. Participants were 66 introductory-psychology students. I asked them to describe a positive experience (following the same procedure used in each previous experiment) using either perfective or imperfective verbs. Next, they rated the extent to which their memory for the experience was "detailed" and was "like re-experiencing the event," using scales from 1 (not at all) to 10 (extremely; Hart & Albarracin, 2011). Responses to these items were averaged to create a memory index (r = .58, p = .001). Participants then completed three measures of mood, using 7-point scales (scale anchors: -3 = bad, 3 = good; -3 = unpleasant, 3 = pleasant; -3 = negative, 3 = positive). Responses were averaged to create a single mood index. Finally, participants rated how much effort they had required to compose their descriptions, using a scale from 1 (little effort) to 10 (much effort). Data for 3 participants (perfective-aspect condition: n = 2; imperfective-aspect condition: n = 1) were discarded because the participants ignored the verb-aspect instructions.
+As expected, participants in the imperfective-aspect condition reported a more positive mood (M = 2.00, SD = 0.76) than did participants in the perfective-aspect condition (M = 1.36, SD = 1.34), F(1, 61) = 5.62, p = .03, d = 0.60. Participants in the imperfective-aspect condition also reported more detailed memory for the experience (M = 8.70, SD = 1.13) than did participants in the perfective-aspect condition (M = 7.75, SD = 1.75), F(1, 61) = 6.21, p = .02, d = 0.60. A regression revealed that the degree to which memory was detailed predicted mood after controlling for aspect ( = 0.55, p = .001). To assess mediation, I estimated the indirect effect of aspect on mood through memory for 5,000 bootstrapped samples (Preacher & Hayes, 2004). The 95% CI for this indirect effect was [0.03, 0.39], a result suggesting that the effect of aspect on mood was mediated by memory for the experience.
+
+General Discussion
+Despite much interest in how the self-disclosure of emotional experiences influences people's mood and well-being (Frattaroli, 2006; Pennebaker & Chung, 2011), there has been little experimental research on how the formal features of language shape such outcomes. To address this issue, I conducted four experiments to examine whether the verb aspect used in describing a past emotional experience influences the reinstatement of the affect associated with that experience and judgments of happiness. Participants who framed a description of a positive experience in terms of what was happening (as opposed to what happened) reported a more positive mood and enhanced happiness after doing so. Participants who framed descriptions of a negative experience in terms of what was happening (as opposed to what happened) reported a more negative mood and decreased happiness after doing so. These effects of aspect could be attributed to enhanced memory for the experience caused by using imperfective (vs. perfective) verbs, but they could not be attributed to differences in imagery perspective, the semantic content of the descriptions, the effort expended in composing the descriptions, or conscious thought about why or how an experience unfolded.
+This research has limitations that may be addressed by future research. First, I used correlational procedures to test for mediation and therefore cannot fully rule out the possibility that the relations between memory and mood and between memory and happiness are spurious. Nevertheless, because past experiments have shown that memory for an emotional experience is causally linked to affect reinstatement and happiness judgments (Strack et al., 1985), it seems unlikely that the relations observed in the present experiments were spurious.
+Second, the present research was not designed to address the question of how people naturally choose which aspect to use when describing emotional experiences. It is possible that people choose to use the imperfective aspect more often than the perfective aspect when describing positive experiences, and choose to use the perfective aspect more often than the imperfective aspect when describing negative experiences. Such a possibility follows from the notions that people desire a positive mood and that they alter their recollections accordingly (Clark & Isen, 1982).
+Third, I analyzed the effects of aspect when it was applied to descriptions of personal emotional experiences, yet aspect may have similar effects when people simply read about other people's emotional experiences. Compared with the perfective aspect, the imperfective aspect promotes the tendency to simulate the mental experiences of other people (Hart & Albarracin, 2011) and therefore might correspond to a more empathic response.
+Nevertheless, the present research has important implications. At a theoretical level, these findings establish the broader implications of verb aspect in descriptions of personal experiences. Prior research has shown that describing one's past behaviors using the imperfective (vs. perfective) aspect
+
+Unlocking Past Emotion
+
+25
+
+RETRACTED
+
+promotes the tendency to reinstate those behaviors (Hart & Albarracin, 2009). Other research has shown that descriptions of actions marked with the imperfective (vs. perfective) aspect enhance readers' attempts to simulate the mental experiences of the actor (Hart & Albarracin, 2011). Bridging these two findings, the present investigation showed that the verb aspect applied to descriptions of one's past emotional experiences influences the reinstatement of one's own past affective reaction.
+Apparently, the verbs people use to describe past experiences can either connect them or disconnect them from those experiences, a phenomenon that has far-reaching implications for how people think (Experiment 1), feel (Experiments 1-3b), and judge their satisfaction with their lives (Experiments 1 and 3a). At a practical level, the present findings suggest a novel insight into the problem of emotion regulation. For example, perhaps one way to cope with a negative experience is to talk about it using the perfective rather than the imperfective aspect.
+Declaration of Conflicting Interests
+The author declared that he had no conflicts of interest with respect to his authorship or the publication of this article.
+Notes
+1. Aspect condition had no main or interactive effects on effort (ps > .66) in any of the four experiments. 2. Mood and happiness were correlated (r = .24, p = .009). Because mood failed to predict happiness after I controlled for aspect (p > .05), it apparently did not mediate the relation between aspect and happiness (Baron & Kenny, 1986). 3. I addressed whether aspect was confounded with the semantic contents of the descriptions. Descriptions were analyzed using Linguistic Inquiry and Word Count (Pennebaker, Booth, & Francis, 2007); for each participant's description, the percentages of positiveemotion words, negative-emotion words, cognitive words, self-references, and articles were computed. Percentage scores that were skewed were natural-log transformed prior to analysis. The scores were submitted to separate ANOVAs with aspect and described experience as predictors. Aspect had no main or interactive effects in any of these analyses (ps > .20), which suggests that the content of descriptions in the two aspect conditions was similar. In all subsequent experiments, I conducted similar analyses that also produced null findings; for the sake of brevity, I do not discuss them here. 4. Mood and happiness were correlated (r = .37, p = .001). Given that mood was unrelated to happiness (in both described-experience conditions) after controlling for aspect and response latencies (ps > .80), it apparently did not mediate the relation between memory and happiness. 5. Consistent with the results from Berntsen and Rubin (2006), results revealed that the imagery-perspective index had a negative association with mood in the positive-experience condition (r = -.21, p = .11) and a positive association with mood in the negative-experience condition (r = .33, p = .01). The imagery-perspective index had no effect on happiness, however. 6. Neither of these self-report measures predicted mood or happiness.
+
+References
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. Journal of Personality and Social Psychology, 51, 1173-1182.
+Barsalou, L. W. (1999). Perceptual symbol systems. Behavioral & Brain Sciences, 22, 577-660.
+Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
+Berntsen, D., & Rubin, D. C. (2006). Emotion and vantage point in autobiographical memory. Cognition & Emotion, 20, 1193-1215.
+Brewin, C. R., Reynolds, M., & Tata, P. (1999). Autobiographical memory processes and the course of depression. Journal of Abnormal Psychology, 108, 511-517.
+Clark, M. S., & Isen, A. M. (1982). Toward understanding the relationship between feeling states and social behavior. In A. Hastorf & A. M. Isen (Eds.), Cognitive social psychology (pp. 73-108). New York, NY: Elsevier.
+Clore, G. L., Wyer, R. S., Dienes, B., Gasper, K., Gohm, C., & Isbell, L. (2001). Affective feelings as feedback: Some cognitive consequences. In L. L. Martin & G. L. Clore (Eds.), Theories of mood and cognition: A user's guide (pp. 27-62). Mahwah, NJ: Erlbaum.
+Comrie, B. (1976). Aspect: An introduction to the study of verbal aspect and related problems. New York, NY: Cambridge University Press.
+Dalgleish, T., & Watts, F. N. (1990). Biases of attention and memory in disorders of anxiety and depression. Clinical Psychology Review, 10, 589-604.
+Fiedler, K., Schenk, W., Watling, M., & Menges, J. I. (2005). Priming trait inferences through pictures and moving pictures: The impact of open and closed mindsets. Journal of Personality and Social Psychology, 88, 229-244.
+Frattaroli, J. (2006). Experimental disclosure and its moderators: A meta-analysis. Psychological Bulletin, 132, 823-865.
+Gasper, K., & Clore, G. L. (2002). Attending to the big picture: Mood and global versus local processing of visual information. Psychological Science, 13, 34-37.
+Gilhooly, K. J., & Johnson, C. E. (1978). Effects of solution word attributions on anagram difficulty: A regression analysis. Quarterly Journal of Experimental Psychology, 30, 57-70.
+Hart, W., & Albarracin, D. (2009). What I was doing vs. what I did: Verb aspect influences memory and future actions. Psychological Science, 20, 238-244.
+Hart, W., & Albarracin, D. (2011). Learning about what others were doing: Verb aspect and attributions of mundane and criminal intent for past actions. Psychological Science, 22, 261-266.
+Hayes, A. F. (2012). PROCESS: A versatile computational tool for observed variable moderation, mediation, and conditional process modeling. Manuscript submitted for publication.
+Kahneman, D., Krueger, A. B., Schkade, D., Schwarz, N., & Stone, A. A. (2006). Would you be happier if you were richer? A focusing illusion. Science, 312, 1908-1910.
+Libby, L. K., & Eibach, R. P. (2011). Self-enhancement or self-coherence? Why people shift visual perspective in mental images of the personal past and future. Personality and Social Psychology Bulletin, 37, 714-726.
+
+26
+
+Hart
+
+Madden, C. J., & Zwaan, R. A. (2003). How does verb aspect con- Schwarz, N., Strack, F., & Mai, H. (1991). Assimilation and contrast
+
+strain event representations? Memory & Cognition, 31, 663-
+
+effects in part-whole question sequences: A conversational logic
+
+RETRACTED 672.
+Magliano, J. P., & Schleich, M. C. (2000). Verb aspect and situation models. Discourse Processes, 29, 83-112.
+Maier, M. A., Elliot, A. J., & Lichtenfeld, S. (2008). Mediation of the negative effects of red on intellectual performance. Personality and Social Psychology Bulletin, 34, 1530-1540.
+Martin, L. L., Tesser, A., & McIntosh, W. D. (1993). Wanting but not having: The effects of unattained goals on thoughts and feelings. In D. M. Wegner & J. W. Pennebaker (Eds.), Handbook of mental control (pp. 552-572). Englewood Cliffs, NJ: Prentice Hall.
+Niedenthal, P. M., Barsalou, L. W., Ric, F., & Krauth-Gruber, S. (2005). Embodiment in the acquisition and use of emotion knowledge. In L. F. Barrett, P. M. Niedenthal, & P. Winkielman (Eds.), Emotion and consciousness (pp. 21-50). New York, NY: Guilford Press.
+Pennebaker, J. W., Booth, R. J., & Francis, M. E. (2007). Linguistic Inquiry and Word Count: LIWC 2007. Austin, TX: LIWC.
+Pennebaker, J. W., & Chung, C. K. (2011). Expressive writing: Connections to physical and mental health. In H. S. Friedman (Ed.), Oxford handbook of health psychology (pp. 417-437). New York, NY: Oxford University Press.
+Preacher, K. J., & Hayes, A. F. (2004). SPSS and SAS procedures of
+
+analysis. Public Opinion Quarterly, 55, 3-23. Shah, J. Y. (2003). Automatic for the people: How representations of
+significant others implicitly affect goal pursuit. Journal of Personality and Social Psychology, 84, 661-681. Singer, J. A., & Salovey, P. (1988). Mood and memory: Evaluating the network theory of affect. Clinical Psychology Review, 8, 211-251. Sparrow, B., & Wegner, D. M. (2006). Unpriming: The deactivation of thoughts through expression. Journal of Personality and Social Psychology, 91, 1009-1019. Strack, F., Schwarz, N., & Gschneidinger, E. (1985). Happiness and reminiscing: The role of time perspective, affect, and mode of thinking. Journal of Personality and Social Psychology, 49, 1460- 1469. Watson, D., Clark, L. A., & Tellegen, A. (1988). Developments and validation of brief measures of positive and negative affects: The PANAS Scale. Journal of Personality and Social Psychology, 54, 1063-1070. Zeigarnik, B. (1967). On finished and unfinished tasks. In W. D. Ellis (Ed.), A sourcebook of Gestalt psychology (pp. 300-314). New York, NY: Humanities Press. Zwaan, R. A., & Radvansky, G. A. (1998). Situation models in lan-
+
+estimating indirect effects in simple mediation models. Behavior
+
+guage comprehension and memory. Psychological Bulletin, 123,
+
+Research Methods, 36, 717-731.
+
+162-185.
+
+

@@ -1,0 +1,940 @@
+6 0 2 7 0 6 PSSXXX10.1177/0956797615602706
+research-article2015
+
+Retraction
+Retraction of "A Common Discrete Resource for Visual Working Memory and Visual Search"
+
+Psychological Science 2015, Vol. 26(9) 1527 (c) The Author(s) 2015 Reprints and permissions: sagepub.com/journalsPermissions.nav DOI: 10.1177/0956797615602706 pss.sagepub.com
+
+The following article has been retracted by the Editor and publishers of Psychological Science:
+Anderson, D. E., Vogel, E. K., & Awh, E. (2013). A common discrete resource for visual working memory and visual search. Psychological Science, 24, 929- 938. doi:10.1177/0956797612464380
+The retraction follows the results of an investigation into the work of author David E. Anderson. The Office
+
+of Research Integrity (U.S. Department of Health and Human Services), together with the University of Oregon, has determined that Anderson falsified data affecting Figures 3e and 3f, removing outlier values and replacing outliers with mean values, to produce results that conformed to predictions. Anderson's coauthors were in no way implicated in the research misconduct, and all authors have seen and agreed to this retraction.
+
+4 6 4 3 8 0 PSSXXX10.1177/0956797612464380Anderson et al.Working Memory and Visual Search
+research-article2013
+
+Research Article
+RETRACTED: A Common Discrete Resource for Visual Working Memory and Visual Search
+
+Psychological Science 24(6) 929-938 (c) The Author(s) 2013 Reprints and permissions: sagepub.com/journalsPermissions.nav DOI: 10.1177/0956797612464380 pss.sagepub.com
+
+David E. Anderson, Edward K. Vogel, and Edward Awh
+University of Oregon
+
+Abstract Visual search, a dominant paradigm within attention research, requires observers to rapidly identify targets hidden
+D among distractors. Major models of search presume that working memory (WM) provides the on-line work space for
+evaluating potential targets. According to this hypothesis, individuals with higher WM capacity should search more efficiently, because they should be able to apprehend a larger number of search elements at a time. Nevertheless, no
+E compelling evidence of such a correlation has emerged, and this null result challenges a growing consensus that there is
+strong overlap between the neural processes that limit internal storage and those that limit external selection. Here, we provide multiple demonstrations of robust correlations between WM capacity and search efficiency, and we document
+T a key boundary condition for observing this link. Finally, examination of a neural measure of visual selection capacity
+(the N2pc) demonstrates that visual search and WM storage are constrained by a common discrete resource.
+C Keywords
+visual attention, visual memory, evoked potentials, working memory, visual search, ERP, N2pc
+A Received 4/5/12; Revision accepted 9/17/12
+
+R Working memory (WM) is typically defined as an on-line
+work space where information can be efficiently accessed
+T and updated (Baddeley, 1986; Smith & Jonides, 1999).
+Thus, it is a natural hypothesis that WM would be required for visual search, an attention-demanding task that
+E requires the rapid apprehension of multi-element displays
+to find a target. Indeed, virtually every major model of
+R visual search has postulated a role for WM (e.g., Bundesen,
+
+individuals identify targets more quickly when it is necessary to overcome distraction from salient irrelevant items (Poole & Kane, 2009; Sobel, Gerrie, Poole, & Kane, 2007). These studies support previous suggestions that WM capacity is critical for resisting distraction (e.g., Engle, 2002; Vogel & Awh, 2008), but because they measured search performance using absolute reaction time (RT)--a measure that is not sensitive to search efficiency--they do
+
+1990; Desimone & Duncan, 1995; Duncan & Humphreys, not reveal whether WM capacity is critical for search per
+
+1989; Fisher, 1982; Pashler, 1987; Treisman & Gelade, se. A more direct test was carried out by Kane, Poole,
+
+1980; Wolfe, 1994). A common proposal is that small clus- Tuholski, and Engle (2006). They found near-zero correla-
+
+ters of items are transferred into WM to enable the parallel tions between WM capacity and search efficiency using
+
+evaluation of their target status (e.g., Duncan & three different search tasks and a sample size of more
+
+Humphreys, 1989; Fisher, 1982; Wolfe, 2005). Critically, than 500 subjects. This is a highly significant null result
+
+these models predict that individuals with higher WM because it casts doubt on a common assumption of major
+
+capacity should be able to apprehend a larger number of models of visual search, and it challenges a growing body
+
+search elements at a time, and therefore should perform of evidence that similar neural processes underlie internal
+
+visual search more efficiently. Nevertheless, past efforts storage and external selection of visual information (e.g.,
+
+have not revealed a link between WM capacity and search
+
+efficiency. Thus far, studies showing a link between WM capacity
+
+Corresponding Author: Edward Awh, 1227 University of Oregon, Eugene, OR 97403
+
+and search performance have found that higher-capacity E-mail: awh@uoregon.edu
+
+930
+
+Anderson et al.
+
+Awh & Jonides, 2001; Awh, Vogel, & Oh, 2006; Drew & Vogel, 2008; Engle, 2002; Vogel & Awh, 2008). Thus, we
+
+a
+
+were motivated to reexamine this issue.
+
+750 ms
+
+Here, we present three separate demonstrations of a
+
+robust correlation between WM capacity and search efficiency (Experiments 1a, 1c, and 2). Moreover, we offer an
+
+200 ms
+
+explanation of prior null results by defining a key bound-
+
+1,000 ms
+
+ary condition for observing this link. In Experiment 2, we
+
+tested whether visual selection during search tasks is
+
+subject to an item limit by measuring the N2pc, an elec-
+
+trophysiological response that has been shown to track
+
+the number of items visually selected (Anderson, Vogel, & Awh, 2011, in press; Drew & Vogel, 2008; Luck &
+
+b
+
+Hillyard, 1994). The N2pc evoked by the search array followed a bilinear function, rising as additional items were included in the search array and reaching a plateau at a set size that predicted both search efficiency and WM capacity. In combination with its link to individual
+D differences in search efficiency, the plateau in selection-
+dependent neural activity suggests discrete limits in the number of items that can be searched simultaneously. We
+c E conclude that a common discrete resource constrains
+WM storage and search efficiency.
+
+750-ms ITI
+Until Response
+
+1
+
+2
+
+3
+
+T Experiments 1a, 1b, and 1c C Method
+Sixty-five undergraduates at the University of Oregon (23, 25, and 17 in Experiments 1a, 1b, and 1c, respectively)
+A completed the experiments for course credit or monetary
+compensation. All participants gave informed consent according to procedures approved by the University of
+R Oregon institutional review board. Stimuli were generated in MATLAB using the
+T Psychophysics Toolbox extension (Brainard, 1997; Pelli,
+1997) and were presented on a 17-in. flat CRT computer screen (120-Hz refresh rate). The viewing distance was
+E approximately 77 cm. Participants first performed a WM R task and then a visual search task.
+
+Fig. 1. Illustration of the tasks and search displays in Experiment 1. In the working memory task (a), participants were instructed to maintain fixation and to remember the orientation of all six objects presented in the display. After a short delay, six probe rings were presented, and participants clicked on the thicker ring to report the position of the gap in the sample item that had appeared in that position. In the visual search task (b), participants maintained fixation and were instructed to identify the direction (right or left) of the target letter L. Set sizes ranged from 1 to 8. Participants used the left or right arrow key to indicate whether the vertical segment of the L was on the left or right, respectively. Target-distractor similarity and distractor variability were manipulated (c). In Experiment 1a and one condition of Experiment 1c, both target-distractor similarity and distractor variability were high (Example 1). In Experiment 1b, target-distractor similarity was lower than in Experiment 1a (the relative position of the vertical segment was always different in targets than in distractors), and distractor variability was low (Example 2). Finally, in Experiment 1c, the vertical segment of the L was shifted inward, so that target-distractor similarity was even higher than in Experiment 1a, but grouping was still encouraged by
+
+WM task.Participants fixated a central dot (0.37 x low distractor variability (Example 3). Distances are not to scale. ITI =
+
+0.37) and were instructed to remember the orientation intertrial interval.
+
+of six randomly positioned discs (radius = 0.93), each of
+
+which had a prominent rectangular gap (randomly ori- indicate the position of the gap in the corresponding
+
+ented across 360 of stimulus space; Fig. 1a). Memoranda sample item. Each response was followed by a 750-ms
+
+were presented within a 9.6 x 9.6 region, with a mini- blank intertrial interval.
+
+mum separation of two thirds of an object.
+
+To estimate WM capacity, we fitted a mixture model
+
+Within a single trial, a 750-ms fixation point was fol- (Zhang & Luck, 2008) to the distribution of each observ-
+
+lowed by presentation of the memoranda for 200 ms, a er's response errors (the difference between the response
+
+1,000-ms delay period, and finally a probe display of and the angle of the probed stimulus) using maximum
+
+rings that appeared in the same positions as the memo- likelihood estimation. The fitted mixture model was
+
+randa. In the probe display, one ring was thicker than the then decomposed to produce a von Mises distribution,
+
+others. Subjects made an unspeeded click on this ring to corresponding to target-related responses, and a uniform
+
+Working Memory and Visual Search
+
+931
+
+distribution, corresponding to the proportion of trials in given set size. For instance, for a trial with a set size
+
+which subjects failed to store the probed item (P ). The f
+probability that the critical item was stored (1 - P ), was f
+our operational definition of WM capacity.
+
+of 3, we selected three contiguous positions from within eight positions that met the minimum distance requirements. This strategy (along with fixation instructions)
+
+ensured that interitem distances--and therefore visual
+
+Visual search task. Search displays contained a target crowding--were equated across set sizes.
+
+L shape (facing left or right) and a variable number of
+
+During each trial, subjects first saw a central fixation
+
+distractor T shapes (Fig. 1b), and were presented within point, followed by the search display (presented until
+
+a square 9.6 x 9.6 region. Search elements (1.1 x 1.1) response). They were instructed to respond as quickly
+
+were composed of line segments (0.2 thick) and were and accurately as possible by pressing the left or right
+
+randomly positioned with the constraint that all objects arrow key to indicate whether the vertical line of the L
+
+were separated by at least two object widths.
+
+was on the left or right, respectively. A 750-ms blank
+
+The key manipulations across Experiments 1a through intertrial interval followed each response.
+
+1c were distractor variability (i.e., uniform vs. varied dis-
+
+RT measurements were excluded if the search response
+
+tractor orientations) and target-distractor similarity (determined by whether specific junctions in the T and L stimuli overlapped). These manipulations allowed us to test whether the putative correlation between WM capac-
+D ity and search efficiency would be contingent on distrac-
+tor variability that required the individuation of each search element.
+E In Experiment 1a (Fig. 1c, Example 1), distractor vari-
+ability was high because the T shapes were presented in
+T four possible orientations (up, right, left, or down).
+Target-distractor similarity was high because the specific right angle present in the target stimuli was also present
+C in each possible distractor. In particular, it has been
+argued that high distractor variability increases the need to individuate distractors to determine their target status
+A (Duncan & Humphreys, 1989). In Experiment 1b (Fig. 1c, Example 2), distractor variability was low, because the distractors were uniform
+R upright T shapes. Target-distractor similarity was lower
+than in Experiment 1a because although all stimuli contained right angles, the relative position of the vertical
+T segment was always different in targets than in distrac-
+tors. In this experiment, uniform distractors could be grouped and rejected as groups (Duncan & Humphreys,
+E 1989). One condition of Experiment 1c was the same as in
+R Experiment 1a. In the other condition, uniform distrac-
+
+was incorrect or RT was 3 standard deviations (or more) above or below the mean. Average RT was calculated for each set size, and search efficiency was operationalized as the slope of the RT-by-set-size function.
+Results and discussion
+Experiment 1a: WM capacity correlates with search efficiency when individuation is required.There was a significant effect of set size on RT in this experiment (Fig. 2a), F(7, 16) = 67.08, p < .001. Set size had no effect on accuracy, F(7, 16) = 1.55, p = .22--evidence against a significant speed-accuracy trade-off. The slope of the RT-by-set-size function (25.8 ms/item) indicated relatively inefficient search (Wolfe, 1998), and split-half reliability was strong (.87). The critical result was a robust correlation between WM capacity and search efficiency (Fig. 2b), R2 = .63, p < .0001, such that slopes were shallower for higher-capacity observers. By contrast, WM capacity did not predict the intercept of the RT-by-setsize function, R2 = .013, p > .60, which suggests that highcapacity subjects had an advantage in search efficiency per se rather than a more general advantage in processing speed or better maintenance of the task set.
+Experiment 1b: distractor grouping masks the link between WM capacity and search efficiency. RT rose
+
+tors were employed, but the target alternatives were with set size in Experiment 1b (Fig. 2c), F(7, 18) = 132.79,
+
+made more similar to each other (and to distractors) by p < .001. Accuracy did not vary across set sizes, F(7, 18) =
+
+positioning the bottom segment of the L partly across the 0.67, p = .42, which again indicated the absence of a sig-
+
+vertical segment (Fig. 1c, third example). Although dis- nificant speed-accuracy trade-off. The slope of the RT-by-
+
+tractors were still groupable in these displays, search set-size function (15.3 ms/item) indicated more efficient
+
+slopes were expected to be steep. This experiment tested search than in Experiment 1a. Critically, however, we
+
+whether the steepness of search slopes alone is a critical factor for observing a link between WM capacity and search efficiency.
+
+observed no relationship between WM capacity and search efficiency (Fig. 2d), R2 = .03, p = .56, or search intercept, R2 = .014, p = .57, despite a strong split-half
+
+Set size varied from 1 through 8, inclusive. Eight posi- reliability score (.91) for search. These findings reveal a
+
+tions were randomly selected for each trial with the mini- key boundary condition for observing the link between
+
+mum distance requirements already noted, and then a WM capacity and search efficiency: Groupable distractors
+
+contiguous subset of these positions was selected for the mask the correlation between these abilities.
+
+932
+
+Anderson et al.
+
+a
+
+b
+
+Search Slope (ms/item)
+
+Reaction Time (ms)
+
+700 m = 25.8 ms/item
+
+40
+
+600
+
+30
+
+R 2 = .63
+
+500
+
+20
+
+400
+
+10
+
+300 12345678
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Set Size
+
+WM Capacity
+
+c
+
+d
+
+Reaction Time (ms)
+
+Search Slope (ms/item)
+
+700 m = 15.3 ms/item
+600
+D 500 E 400
+300
+T 1 2 3 4 5 6 7 8 Set Size
+
+30
+
+R 2 = .03
+
+20
+
+10
+
+0 0 1.2 2.4 3.6 4.8 6.0
+WM Capacity
+
+e f C 750 m = 26.3 ms/item
+m = 20.0 ms/item
+A 650
+
+Search Slope (ms/item)
+
+Reaction Time (ms)
+
+550
+
+R 450
+
+Uniform Distractors
+
+T Variable Distractors
+350 12345678
+
+Set Size
+
+50
+
+R 2 = .05
+
+40
+
+R 2 = .23
+
+30
+
+20
+
+10
+
+0 0 1.2 2.4 3.6 4.8 6.0 WM Capacity
+
+E Fig. 2. Results from Experiment 1. The graphs on the left show mean reaction time (RT) as a function of set size in (a) Experiment 1a, R (c) Experiment 1b, and (e) Experiment 1c. Also shown is the slope (m) of each function. Error bars represent 95% confidence intervals.
+
+The graphs on the right show individual participants' search slopes (with best-fitting regression lines) as a function of working memory
+
+(WM) capacity in (b) Experiment 1a, (d) Experiment 1b, and (f) Experiment 1c. Illustrations of the stimulus configurations for the experi-
+
+ments are displayed to the right of the scatter plots; in (f), stimuli for the uniform- and variable-distractor conditions are illustrated in gray
+
+and black, respectively.
+
+Experiment 1c: difficult search alone does not reveal the link between WM capacity and search efficiency. An alternative interpretation of the null result from Experiment 1b is that the correlation was masked because the search task was easier (and the range of slopes was reduced). To test this possibility, we made the target alternatives in the uniform-distractor condition of Experiment 1c harder to discriminate and more similar to the distractors (Fig. 1c, third example). Search slopes increased markedly in this condition, perhaps because
+
+observers needed more time to reject each distractor. Nevertheless, the uniform distractors still facilitated grouping. If lower search slopes per se masked the correlation in Experiment 1b, then this more challenging search task might reveal a link between WM capacity and search efficiency. By contrast, if distractor grouping was responsible for masking the correlation, then we would not find any correlation in this condition either. Experiment 1c also included separate blocks of a condition that replicated Experiment 1a (variable-distractor condition).
+
+Working Memory and Visual Search
+
+933
+
+There was a main effect of condition on accuracy, F(1, searched simultaneously. An alternative interpretation,
+
+16) = 13.6, p < .01. Accuracy was higher in the variable- however, is that higher-capacity subjects search individ-
+
+distractor condition than in the uniform-distractor condi- ual items more quickly rather than searching more items
+
+tion, presumably because the target alternatives were at a time. Experiment 2 provides direct evidence that the
+
+more similar in the latter condition. There was no effect number of items simultaneously selected during search is
+
+of set size on accuracy, F(7, 10) = 1.55, p = .78--evidence linked to WM capacity, but the data thus far already are
+
+against a significant speed-accuracy trade-off. No signifi- evidence against a general link between processing
+
+cant interaction between condition and set size was speed and WM capacity. Specifically, no correlation
+
+observed for accuracy (p = .9).
+
+between WM capacity and absolute RT (operationalized
+
+Analyses of the RTs revealed significant effects of con- by the intercept of the RT-by-set-size function) was
+
+dition, F(1, 16) = 51.6, p < .001, and set size, F(7, 10) = observed even though a general processing-speed advan-
+
+30.2, p < .001 (Fig. 2e), and a marginally significant inter- tage predicts precisely this finding. Another alternative
+
+action, F(7, 10) = 2.8, p = .07. Search was relatively inef- interpretation is that higher-capacity subjects were simply
+
+ficient in both the variable-distractor blocks (20.0 ms/ more attentive to a challenging task, but superior atten-
+
+item) and the uniform-distractor blocks (26.3 ms/item). Slopes were higher in the latter than in the former condition, t(16) = 4.65, p < .001. Split-half reliability estimates were strong for both conditions (> .91).
+D Just as in Experiments 1a and 1b, WM capacity was
+uncorrelated with the intercept of the RT-by-set-size function, for both the variable-distractor condition, R2 =
+E .012, p = .67, and the uniform-distractor condition, R2 =
+.0003, p = .93. The key result of Experiment 1c was that
+T we observed a reliable correlation between WM perfor-
+mance and search efficiency in the variable-distractor condition (R2 = .23, p < .05), but no evidence of this
+C link in the uniform-distractor condition (R2 = .05, p = .39;
+Fig. 2f). A Hotelling-Williams test showed that the correlation was significantly larger in the variable-distractor
+A condition, t(14) = -3.28, p < .01. The null correlation
+between WM capacity and search efficiency in the uniform-distractor condition shows that the null result from
+R Experiment 1b was not caused by faster search slopes
+per se. Instead, we conclude that groupable distractors mask the link between WM capacity and search
+T efficiency.
+Summary of Experiments 1a, 1b, and 1c. Experi-
+E ments 1a through 1c show that WM capacity is a robust
+predictor of search efficiency. Observing this link, how-
+R ever, requires search displays that minimize distractor
+
+tion to the task at hand should have given them an advantage in all search tasks, not just the ones that minimized distractor grouping. Our conclusion is that search efficiency per se is better among subjects with higher WM capacity.
+Experiment 2
+The hypothesis that WM capacity limits the number of search items that can be selected simultaneously presumes that visual search is indeed constrained by an item limit. Experiment 2 tested this assumption by measuring the amplitude of the N2pc waveform, a phasic negative deflection in event-related potential (ERP) amplitude over posterior electrodes contralateral to visually selected items (Luck, Girelli, McDermott, & Ford, 1997; Luck & Hillyard, 1994). Recent work has shown that N2pc amplitude provides a sensitive index of the number of items selected (Anderson et al., 2011, in press; Drew & Vogel, 2008; Pagano & Mazza, 2012). Thus, if there is a discrete limit in the number of items an observer can select during search, then N2pc amplitude should reach a plateau when the number of items to be searched exceeds the observer's selection capacity. In turn, if the N2pc provides a valid measure of visual selection capacity, then it should predict individual differences in search efficiency. We tested these predictions
+
+grouping. When distractors were uniform and groupable, and also examined whether the same neural measure
+
+the correlation was not observed, even when difficult-to- would predict WM capacity.
+
+discriminate target alternatives elicited steep search
+
+slopes. We propose that distractor grouping can mask the correlation between WM capacity and search efficiency
+
+Method
+
+because grouping changes the effective set size of the Thirty undergraduates at the University of Oregon com-
+
+search display, producing a disconnect between WM pleted the experiment for course credit or monetary
+
+capacity and the number of search elements that can be compensation. All participants gave informed consent
+
+apprehended simultaneously.
+
+according to procedures approved by the University of
+
+In line with past proposals (e.g., Duncan & Humphreys, Oregon institutional review board.
+
+1989; Fisher, 1982; Wolfe, 2005), our working hypothesis
+
+Viewing distances were approximately 100 cm. The
+
+is that WM capacity predicts search efficiency because WM task and modeling procedures were the same as in
+
+WM capacity determines the number of items that can be Experiment 1.
+
+934
+
+Anderson et al.
+
+The visual search task was identical to the task in onset of the search array (Fig. 3c). N2pc amplitude rose
+
+Experiment 1 except as noted here. Search elements (Fig. monotonically and then reached a plateau at about set
+
+1c, Example 1) were presented within two imaginary size 3 (Fig. 3d)--set size 1 vs. 2: t(29) = 4.4, p < .001; set
+
+rectangles (6.3 x 4.9), each centered 4.0 to the left or size 2 vs. 3: t(29) = 2.1, p < .05; set size 3 vs. 4: t(29) =
+
+right of a central diamond fixation (0.57 x 0.57). During -0.45, p = .66; set size 4 vs. 5: t(29) = 0.76, p = .46; set size
+
+each trial, subjects fixated a central cue (duration = 500 5 vs. 6: t(29) = 0.82, p = .76; set size 6 vs. 7: t(29) = 1.28,
+
+ms) that was blue on one side and yellow on the other. p = .21; set size 7 vs. 8: t(29) = -0.74, p = .47. A bilinear
+
+After a 500-ms interstimulus interval, the search array was function provided an excellent fit to the N2pc-by-set-size presented. Subjects were instructed to attend the side of function (R2 = .97, p < .0001) and revealed that N2pc
+
+the screen indicated by one of the two fixation colors amplitude reached a plateau at approximately 2.5 items.
+
+(counterbalanced across subjects), and to indicate the tar- This plateau suggests that only a few items could be
+
+get's identity quickly and accurately. On the unattended selected simultaneously when the search array appeared.
+
+side, an irrelevant display of the same set size was pre-
+
+If the N2pc provides a valid measure of the number
+
+sented (to match visual stimulation across the two of items each observer could select, then it should pre-
+
+hemifields). ERPs were recorded using our lab's standard recording
+and analysis procedures, including rejection of trials contaminated by blocking, blinks, or large (> 1) eye move-
+D ments (McCollough, Machizawa, & Vogel, 2007; Vogel,
+Luck, & Shapiro, 1998). Subjects with trial rejection rates greater than 20% were excluded from the sample.
+E The N2pc was measured at parietal, posterior parietal,
+and lateral occipital sites as the difference in mean
+T amplitude between the ipsilateral and contralateral wave-
+forms during the period 200 to 275 ms after the onset of the visual search display. The electroencephalogram
+C and electrooculogram were amplified with an SA Instru
+mentation (San Diego, CA) amplifier with a band pass of 0.01 through 80 Hz and were digitized at 250 Hz in
+A LabView 6.1 (National Instruments, Austin, TX) running
+on a PC.
+R Results and discussion
+Visual search performance.There was a significant
+T effect of set size on RT (Fig. 3a), F(7, 21) = 25.00, p <
+.001, and no effect of set size on accuracy, F(7, 21) = 2.05, p = .1, which indicated that there was not a signifi-
+E cant speed-accuracy trade-off. Search was relatively inefR ficient (17.70 ms/item).
+
+dict visual search efficiency. To test whether this was the case, we fit a bilinear model to the data from each observer (average R2 = .62); this fit was superior to that provided by an exponential function (predicted by models that eschew item limits for visual selection). Critically, the inflection point of the bilinear function was strongly correlated with search efficiency (Fig. 3e; R2 = .31, p < .01), a result showing that the N2pc-by-set-size function is sensitive to individual selection capacity. Thus, the plateau in N2pc amplitude across set sizes constitutes evidence for a relatively low item limit constraining visual selection, and the correlation with search efficiency shows that this item limit determines the efficiency of visual search. Finally, we also found a strong correlation between the inflection point of the N2pcby-set-size function in the search task and WM capacity (Fig. 3f; R2 = .30, p < .01), which suggests that a common item limit constrains visual search and storage in WM.
+General Discussion
+Although influential models of visual search have suggested that WM provides the work space for visual search, previous studies have not found the predicted link between WM capacity and search efficiency (Kane et al., 2006). Here, we have provided three separate demonstra-
+
+Behavioral link between WM capacity and search tions that this correlation is robust, and we have docu-
+
+efficiency. As in Experiments 1a, and 1c, we observed a mented an important boundary condition for observing
+
+strong relationship between WM capacity and search effi- this correlation. When distractor grouping minimized the ciency (Fig. 3b; R2 = .30, p < .0001). Once again, however, need to individuate search elements, the correlation was
+
+WM capacity was uncorrelated with the intercept of the masked (Experiment 1b and uniform-distractor condition RT-by-set-size function (R2 = .01, p = .57), which suggests in Experiment 1c). Our hypothesis is that grouping of
+
+that WM capacity is correlated with search efficiency per distractors can obscure the link between WM capacity
+
+se rather than with general processing speed.
+
+and search efficiency because variations in grouping effi-
+
+ciency can elicit uncontrolled changes in the effective set
+
+Linking a neural measure of visual selection with size of the search array, leading to a disconnect between
+
+visual search performance. The N2pc was measured WM capacity and the number of search elements that can
+
+by subtracting ipsilateral from contralateral amplitudes be apprehended simultaneously. Experiment 2 provided
+
+from the OL and OR electrodes 200 to 275 ms after the direct evidence that visual search is constrained by an
+
+Working Memory and Visual Search
+
+935
+
+a
+
+c
+
+650
+
+Reaction Time (ms)
+
+600
+
+SS1 SS5
+
+-2.0
+
+SS2 SS6
+
+550
+
+SS3 SS7
+
+SS4 SS8
+
+500
+
+Amplitude (V)
+
+450 12345678
+
+Set Size
+
+-1.0
+
+b 80
+
+R 2 = .30
+
+d e
+
+Search Slope
+
+N2pc Amplitude (V)
+
+60
+
+40
+
+D 20
+
+0 0 1.2 2.4 3.6 4.8 6.0
+E WM Capacity
+
+T Data
+
+-2.0
+
+Bilinear Fit
+
+C -1.6
+
+0.0 0
+
+100
+
+200
+
+300
+
+Time (ms)
+
+-1.2
+
+A -0.8
+
+R -0.4
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Set Size
+
+Tf
+
+80
+
+R 2 = .31
+
+4.8
+
+R 2 = .30
+
+RE60
+
+3.6
+
+40
+
+2.4
+
+WM Capacity
+
+Search Slope
+
+20
+
+1.2
+
+0 01234567 N2pc-by-Set-Size Inflection Point
+
+0.0 01234567 N2pc-by-Set-Size Inflection Point
+
+Fig. 3. Results from Experiment 2: (a) reaction time (RT) as a function of set size, (b) individual participants' search slopes (with best-fitting regression line) as a function of working memory (WM) capacity, (c) grand-averaged difference waves (contralateral amplitude - ipsilateral amplitude) from the OL and OR electrodes at each set size ("SS"), (d) N2pc amplitude as a function of set size (with a fitted bilinear function), (e) individual participants' search slopes (with best-fitting regression line) as a function of the inflection point of the N2pc-by-set-size function, and (f) WM capacity (with best-fitting regression line) as a function of the inflection point of the N2pc-byset-size function. In (a) and (d), error bars represent 95% confidence intervals. In (c), the gray shading indicates the temporal window used to measure N2pc amplitudes.
+
+936
+
+Anderson et al.
+
+item limit. Specifically, the amplitude of a neural index of studies, search elements were prioritized during selection
+
+visual selection (the N2pc) rose monotonically as addi- when they shared similar features with the contents of
+
+tional items were included in the search array and WM, which suggests that the contents of WM bias selec-
+
+reached a plateau at a set size that predicted individual tion during search. These WM guidance effects, however,
+
+search efficiency. Finally, the same N2pc function was are not directly relevant to the basic question of whether
+
+also a robust predictor of WM capacity, a finding consis- WM capacity constrains the number of items that can be
+
+tent with the hypothesis that WM and search are con- selected during search.
+
+strained by a common item limit.
+
+Emrich, Al-Aidroos, Pratt, and Ferber (2009) investi-
+
+Of course, it is important to consider how our findings gated search while measuring contralateral delay activity
+
+can be reconciled with past studies that have not found a (CDA; Vogel & Machizawa, 2004), an electrophysiological
+
+correlation between WM capacity and search efficiency. component sensitive to on-line storage load. They found
+
+Grouping of distractors may have played an important that similar CDA activity was observed during visual
+
+role in the near-zero correlations observed by Kane et al. search and WM tasks, and that CDA amplitudes predicted
+
+(2006); they employed search displays with large set sizes absolute search RT. These data clearly suggest a role for
+
+(up to 19 items) and a small number of unique distractor values, which may have encouraged grouping of the distractors. Furthermore, eye movements were unconstrained, and the area occupied by the search array--
+D and therefore the average eccentricity of the search
+elements--increased with set size. Because crowding strength increases with eccentricity (Bouma, 1970), esti-
+E mates of search efficiency would have been determined
+in part by sensitivity to visual crowding rather than by the
+T number of items that could be selected simultaneously
+(see Cohen & Ivry, 1991). Thus, our efforts to restrict eye movements and control visual crowding across set sizes
+C may have provided a more sensitive measure of the link
+between WM capacity and search efficiency. Findings from dual-task paradigms have also chal-
+A lenged whether WM is integral to visual search (Logan,
+1978, 1979; Woodman, Vogel, & Luck, 2001). For example, Logan (1978) measured search efficiency while sub-
+R jects were either given a verbal memory load or not.
+Search efficiency was equivalent across the two conditions, and Logan concluded that visual search does not
+T require storage in WM (see also Oh & Kim, 2004). One
+key caveat, however, is that none of these studies provided direct evidence that subjects kept the memoranda
+E active in WM during the search phase of the trial. More
+recent dual-task work (Unsworth & Engle, 2007) has
+R shown that subjects can perform such tasks by relying on
+
+WM during the lateralized search task, but they leave uncertain the specific role that WM played. For example, rather than indicating the selection of currently searched items, the CDA activity observed by Emrich et al. could have been elicited by the storage of previously searched locations (McCarley, Wang, Kramer, Irwin, & Peterson, 2003; Peterson, Kramer, Wang, Irwin, & McCarley, 2001; but see Horowitz & Wolfe, 1998) or the broader act of attending the relevant and suppressing the irrelevant side of space. Thus, the central value of the present work is to elucidate the way in which WM is integral to visual search. These two processes may call upon a common discrete resource that limits the number of items that can be selected, during either internal storage or external selection.
+To conclude, our findings corroborate the long-standing but poorly supported assumption that visual WM provides the on-line work space for the analysis of potential targets during visual search (Bundesen, 1990; Desimone & Duncan, 1995; Duncan & Humphreys, 1989; Fisher, 1982; Treisman & Gelade, 1980; Wolfe, 2005). This finding dovetails with a growing body of research indicating that there are pervasive links between storage in on-line memory systems and the top-down selection of relevant aspects of the environment (Awh & Jonides, 2001; Chun, 2011; Cowan, 2001; Engle, 2002; Gazzaley & Nobre, 2011; Vogel & Awh, 2008). Our working hypothesis is that mul-
+
+secondary memory to store the memoranda when atten- tiple stages of visual selection, including the initial appre-
+
+tion must be directed toward an intervening task. This hension and subsequent storage of items in WM, may be
+
+raises the possibility that subjects in these "dual"-task constrained by a common resource that determines the
+
+studies were actually searching in the absence of any number of individuated representations that can be
+
+active WM load. Given this uncertainty, the implications selected simultaneously (Ester, Vogel, & Awh, 2012). This
+
+of these studies will be unclear until further work clarifies "individuation thread" may explain why similar item lim-
+
+whether and when observers "offload" the contents of its have been inferred across a wide range of tasks that
+
+WM during challenging dual tasks.
+
+require internal and external selection, such as multiple-
+
+Ours is not the first study to support a link between object tracking (Drew & Vogel, 2008; Pylyshyn & Storm,
+
+WM and search. For example, there is evidence suggest- 1988), rapid enumeration (Ester, Drew, Klee, Vogel, &
+
+ing that the contents of WM bias visual selection during Awh, 2012; Halberda, Sires, & Feigenson, 2006; Pagano &
+
+search (Downing, 2000; Soto, Hodsoll, Rotshtein, & Mazza, 2012), and storage in visual WM (Cowan, 2001;
+
+Humphreys, 2008; Woodman & Luck, 2007). In these Luck & Vogel, 1997).
+
+Working Memory and Visual Search
+
+937
+
+Acknowledgments
+
+Emrich, S. M., Al-Aidroos, N., Pratt, J., & Ferber, S. (2009). Visual
+
+E. A. and D. E. A. conceived and designed the experiment; D. E. A. collected and analyzed data; E. A., D. E. A., and E. K. V. wrote the manuscript.
+
+search elicits the electrophysiological marker of visual working memory. PLoS ONE, 4, e8042. Retrieved from http://www .plosone.org/article/info%3Adoi%2F10.1371%2Fjournal .pone.0008042
+
+Declaration of Conflicting Interests
+
+Engle, R. W. (2002). Working memory capacity as executive attention. Current Directions in Psychological Science, 11,
+
+The authors declared that they had no conflicts of interest with
+
+19-23.
+
+respect to their authorship or the publication of this article.
+
+Ester, E. F., Drew, T., Klee, D., Vogel, E. K., & Awh, E. (2012).
+
+Neural measures reveal a fixed item limit in subitizing. The
+
+Funding
+
+Journal of Neuroscience, 32, 7169-7177.
+
+This research was supported by Grant R01MH077105 from the National Institutes of Health to E. A. and E. K. V.
+
+Ester, E. F., Vogel, E. K., & Awh, E. (2012). Discrete resource limits in attention and working memory. In M. I. Posner (Ed.), Cognitive neuroscience of attention (2nd ed., pp. 99-110).
+
+New York, NY: Guilford Press.
+
+References
+Anderson, D. E., Vogel, E. K., & Awh, E. (2011). Precision in visual working memory reaches a stable plateau when individual item limits are exceeded. Journal of Neuroscience, 31, 1128-1138.
+D Anderson, D. E., Vogel, E. K., & Awh, E. (in press). Selection and storage of perceptual groups is constrained by a discrete resource in working memory. Journal of Experimental E Psychology: Human Perception and Performance. Awh, E., & Jonides, J. (2001). Overlapping mechanisms of
+attention and spatial working memory. Trends in Cognitive
+T Sciences, 5, 119-126.
+Awh, E., Vogel, E. K., & Oh, S. (2006). Interactions between attention and working memory. Neuroscience, 139, 201-
+C 208.
+Baddeley, A. D. (1986). Working memory. Oxford, England: Clarendon Press.
+A Bouma, H. (1970). Interaction effects in parafoveal letter recognition. Nature, 226, 177-178. Brainard, D. H. (1997). The Psychophysics Toolbox. Spatial
+R Vision, 10, 433-436.
+Bundesen, C. (1990). A theory of visual attention. Psychological Review, 97, 523-547.
+T Chun, M. M. (2011). Visual working memory as visual attention sustained over time. Neuropsychologia, 49, 1407-1409. Cohen, A., & Ivry, R. B. (1991). Density effects in conjunc-
+E tion search: Evidence for a coarse location mechanism of
+feature integration. Journal of Experimental Psychology: Human Perception and Performance, 17, 891-901.
+R Cowan, N. (2001). The magical number 4 in short-term mem-
+
+Fisher, D. L. (1982). Limited channel models of automatic detection: Capacity and scanning in visual search. Psychological Review, 6, 662-692.
+Gazzaley, A., & Nobre, A. C. (2011). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences, 16, 129-135.
+Halberda, J., Sires, S. F., & Feigenson, L. (2006). Multiple spatially overlapped sets can be enumerated in parallel. Psychological Science, 17, 572-576.
+Horowitz, T. S., & Wolfe, J. M. (1998). Visual search has no memory. Nature, 394, 575-577.
+Kane, M. J., Poole, B. J., Tuholski, S. W., & Engle, R. W. (2006). Working memory capacity and the top-down control of visual search: Exploring the boundaries of executive attention. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32, 749-777.
+Logan, G. D. (1978). Attention in character classification tasks: Evidence for the automaticity of component stages. Journal of Experimental Psychology: General, 107, 32-63.
+Logan, G. D. (1979). On the use of a concurrent memory load to measure attention and automaticity. Journal of Experimental Psychology: Human Perception and Performance, 5, 189- 207.
+Luck, S. J., Girelli, M., McDermott, M. T., & Ford, M. A. (1997). Bridging the gap between monkey neurophysiology and human perception: An ambiguity resolution theory of visual selective attention. Cognitive Psychology, 33, 64-87.
+Luck, S. J., & Hillyard, S. A. (1994). Electrophysiological correlates of feature analysis during visual search. Psychophysiology, 31, 291-308.
+
+ory: A reconsideration of mental storage capacity [Target Luck, S. J., & Vogel, E. K. (1997). The capacity of visual working
+
+article and commentaries]. Behavioral and Brain Sciences,
+
+memory for features and conjunctions. Nature, 390, 279-281.
+
+24, 87-185.
+
+McCarley, J. S., Wang, R. F., Kramer, A. F., Irwin, D. E., &
+
+Desimone, R., & Duncan, J. (1995). Neural mechanisms of
+
+Peterson, M. S. (2003). How much memory does oculomo-
+
+selective visual attention. Annual Review of Neuroscience,
+
+tor search have? Psychological Science, 14, 422-426.
+
+18, 193-222.
+
+McCollough, A. W., Machizawa, M. G., & Vogel, E. K. (2007).
+
+Downing, P. (2000). Interactions between visual working
+
+Electrophysiological measures of maintaining representa-
+
+memory and selective attention. Psychological Science, 11,
+
+tions in visual working memory. Cortex, 43, 77-94.
+
+467-473.
+
+Oh, S.-H., & Kim, M.-S. (2004). The role of spatial working
+
+Drew, T., & Vogel, E. K. (2008). Neural measures of individ-
+
+memory in visual search efficiency. Psychonomic Bulletin
+
+ual differences in selecting and tracking multiple moving
+
+& Review, 11, 275-281.
+
+objects. Journal of Neuroscience, 28, 4183-4191.
+
+Pagano, S., & Mazza, V. (2012). Individuation of multiple targets
+
+Duncan, J., & Humphreys, G. W. (1989). Visual search and stim-
+
+during visual enumeration: New insights from electrophysi-
+
+ulus similarity. Psychological Review, 96, 433-458.
+
+ology. Neuropsychologia, 50, 754-761.
+
+938
+
+Anderson et al.
+
+Pashler, H. (1987). Detecting conjunctions of color and form:
+
+in primary memory and controlled search from secondary
+
+Reassessing the serial search hypothesis. Perception &
+
+memory. Psychological Review, 114, 104-132.
+
+Psychophysics, 41, 191-201.
+
+Vogel, E. K., & Awh, E. (2008). How to exploit diversity for sci-
+
+Pelli, D. G. (1997). The VideoToolbox software for visual psy-
+
+entific gain: Using individual differences to constrain cogni-
+
+chophysics: Transforming numbers into movies. Spatial
+
+tive theory. Psychological Science, 17, 171-176.
+
+Vision, 10, 437-442.
+
+Vogel, E. K., Luck, S. J., & Shapiro, K. L. (1998). Electrophysio
+
+Peterson, M. S., Kramer, A. F., Wang, R. F., Irwin, D. E., &
+
+logical evidence for a postperceptual locus of suppres-
+
+McCarley, J. S. (2001). Visual search has memory.
+
+sion during the attentional blink. Journal of Experimental
+
+Psychological Science, 12, 287-292.
+
+Psychology: Human Perception and Performance, 24,
+
+Poole, B. J., & Kane, M. J. (2009). Working-memory capac-
+
+1656-1674.
+
+ity predicts the executive control of visual search among Vogel, E. K., & Machizawa, M. G. (2004). Neural activity predicts
+
+distractors: The influences of sustained and selective atten-
+
+individual differences in visual working memory capacity.
+
+tion. The Quarterly Journal of Experimental Psychology, 62,
+
+Nature, 428, 748-751.
+
+1430-1454.
+
+Wolfe, J. M. (1994). Guided search 2.0: A revised model of
+
+Pylyshyn, Z. W., & Storm, R. W. (1988). Tracking multiple inde-
+
+visual search. Psychonomic Bulletin & Review, 1, 202-238.
+
+pendent targets: Evidence for a parallel tracking mechanism. Spatial Vision, 3, 179-197. Smith, E. E., & Jonides, J. (1999). Storage and executive processes in the frontal lobes. Science, 283, 1657-1661. Sobel, K. V., Gerrie, M. P., Poole, B. J., & Kane, M. J.
+D (2007). Individual differences in working memory capacity
+and visual search: The roles of top-down and bottom-up processing. Psychonomic Bulletin & Review, 14, 840-
+E 845.
+Soto, D., Hodsoll, J., Rotshtein, P., & Humphreys, G. W. (2008). Automatic guidance of attention from working memory.
+T Trends in Cognitive Sciences, 12, 342-348.
+Treisman, A. M., & Gelade, G. (1980). A feature-integration theory of attention. Cognitive Psychology, 12, 97-136.
+C Unsworth, N., & Engle, R. W. (2007). The nature of individual difRETRA ferences in working memory capacity: Active maintenance
+
+Wolfe, J. M. (1998). What can 1,000,000 trials tell us about visual search? Psychological Science, 9, 33-39.
+Wolfe, J. M. (2005). Guidance of visual search by preattentive information. In L. Itti, G. Rees, & J. Tsotsos (Eds.), Neurobiology of attention (pp. 101-104). San Diego, CA: Academic Press.
+Woodman, G. F., & Luck, S. J. (2007). Do the contents of visual working memory automatically influence attentional selection during visual search? Journal of Experimental Psychol ogy: Human Perception and Performance, 33, 363-377.
+Woodman, G. F., Vogel, E. K., & Luck, S. J. (2001). Visual search remains efficient when visual working memory is full. Psychological Science, 12, 219-224.
+Zhang, W., & Luck, S. J. (2008). Discrete fixed-resolution representations in visual working memory. Nature, 453, 233-235.
+
+

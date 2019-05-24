@@ -1,0 +1,107 @@
+"Source" "Statistic" "df1" "df2" "Test.Comparison" "Value" "Reported.Comparison" "Reported.P.Value" "Computed" "Raw" "Error" "DecisionError" "OneTail" "OneTailedInTxt" "APAfactor"
+"1" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 5 16 "=" 41.25 "<" 0.001 1.38144763197136e-08 "F(5, 16) = 41.25, p < .001" FALSE FALSE FALSE FALSE 0.65
+"2" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -0.45 "=" 0.6 0.657321313781119 "t(21) = -0.45, p = .6" TRUE FALSE FALSE FALSE 0.65
+"3" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 0.39 "=" 0.69 0.700464055016477 "t(21) = 0.39, p = .69" TRUE FALSE FALSE FALSE 0.65
+"4" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 1.2 "=" 0.25 0.243502632946108 "t(21) = 1.2, p = .25" FALSE FALSE FALSE FALSE 0.65
+"5" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -7.58 "<" 0.001 1.93349617041739e-07 "t(21) = -7.58, p < .001" FALSE FALSE FALSE FALSE 0.65
+"6" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -2.42 "<" 0.05 0.0246737607796553 "t(21) = -2.42, p < .05" FALSE FALSE FALSE FALSE 0.65
+"7" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 0.539 "=" 0.6 0.595555494307947 "t(21) = 0.539, p = .60" FALSE FALSE FALSE FALSE 0.65
+"8" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -1.15 "=" 0.26 0.263072196123304 "t(21) = -1.15, p = .26" FALSE FALSE FALSE FALSE 0.65
+"9" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -0.367 "=" 0.72 0.717291245568829 "t(21) = -0.367, p = .72" FALSE FALSE FALSE FALSE 0.65
+"10" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 2.66 "<" 0.05 0.0146503979008694 "t(21) = 2.66, p < .05" FALSE FALSE FALSE FALSE 0.65
+"11" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 1 21 "=" 20.75 "<" 0.001 0.000172346399932452 "F(1, 21) = 20.75, p < .001" FALSE FALSE FALSE FALSE 0.65
+"12" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 3 19 "=" 13.89 "<" 0.001 4.95869584463132e-05 "F(3, 19) = 13.89, p < .001" FALSE FALSE FALSE FALSE 0.65
+"13" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 0.19 "=" 0.86 0.851133732770949 "t(21) = 0.19, p = .86" FALSE FALSE FALSE FALSE 0.65
+"14" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 0.42 "=" 0.68 0.678751515106101 "t(21) = 0.42, p = .68" FALSE FALSE FALSE FALSE 0.65
+"15" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 0.34 "=" 0.74 0.737233796019778 "t(21) = 0.34, p = .74" FALSE FALSE FALSE FALSE 0.65
+"16" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 0.11 "=" 0.91 0.913453816156716 "t(21) = 0.11, p = .91" FALSE FALSE FALSE FALSE 0.65
+"17" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -8.75 "<" 0.001 1.90143508750025e-08 "t(21) = -8.75, p < .001" FALSE FALSE FALSE FALSE 0.65
+"18" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -3.8 "<" 0.001 0.00104698469194684 "t(21) = -3.80, p < .001" TRUE FALSE FALSE FALSE 0.65
+"19" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -1.84 "=" 0.08 0.0799468514735288 "t(21) = -1.84, p = .08" FALSE FALSE FALSE FALSE 0.65
+"20" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -0.88 "=" 0.39 0.388819070443768 "t(21) = -0.88, p = .39" FALSE FALSE FALSE FALSE 0.65
+"21" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 0.13 "=" 0.9 0.897803623730136 "t(21) = 0.13, p = .90" FALSE FALSE FALSE FALSE 0.65
+"22" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 1 21 "=" 0.015 "=" 0.9 0.903687764518168 "F(1, 21) = 0.015, p = .90" FALSE FALSE FALSE FALSE 0.65
+"23" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 3 63 "=" 1.17 "=" 0.33 0.32829443897083 "F(3, 63) = 1.17, p = .33" FALSE FALSE FALSE FALSE 0.65
+"24" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -3.72 "<" 0.001 0.00126647153203322 "t(21) = -3.72, p < .001" TRUE FALSE FALSE FALSE 0.65
+"25" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" -1.97 "=" 0.062 0.0621681480443646 "t(21) = -1.97, p = .062" FALSE FALSE FALSE FALSE 0.65
+"26" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 1.16 "=" 0.26 0.259067700021068 "t(21) = 1.16, p = .26" FALSE FALSE FALSE FALSE 0.65
+"27" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 4.63 "<" 0.001 0.000144203414003094 "t(21) = 4.63, p < .001" FALSE FALSE FALSE FALSE 0.65
+"28" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 2.01 "<" 0.05 0.057451796319339 "t(21) = 2.01, p < .05" TRUE TRUE TRUE FALSE 0.65
+"29" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 21 "=" 0.17 "=" 0.87 0.866637228160045 "t(21) = 0.17, p = .87" FALSE FALSE FALSE FALSE 0.65
+"30" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 5 20 "=" 293.4 "<" 0.001 5.39511368052578e-18 "F(5, 20) = 293.4, p < .001" FALSE FALSE FALSE FALSE 0.65
+"31" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 1 24 "=" 1.68 "=" 0.21 0.207250669583813 "F(1, 24) = 1.68, p = .21" FALSE FALSE FALSE FALSE 0.65
+"32" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 5 20 "=" 2.03 "=" 0.13 0.117866994026586 "F(5, 20) = 2.03, p = .13" TRUE FALSE FALSE FALSE 0.65
+"33" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 5 20 "=" 28.23 "<" 0.001 2.05521321746588e-08 "F(5, 20) = 28.23, p < .001" FALSE FALSE FALSE FALSE 0.65
+"34" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 1 24 "=" 7.51 "<" 0.01 0.0113964267478749 "F(1, 24) = 7.51, p < .01" TRUE FALSE FALSE FALSE 0.65
+"35" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 5 20 "=" 3.82 "<" 0.05 0.0136421654823448 "F(5, 20) = 3.82, p < .05" FALSE FALSE FALSE FALSE 0.65
+"36" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" -8.66 "<" 0.001 7.54299331113997e-09 "t(24) = -8.66, p < .001" FALSE FALSE FALSE FALSE 0.65
+"37" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" 0.536 "=" 0.6 0.596891767450392 "t(24) = 0.536, p = .60" FALSE FALSE FALSE FALSE 0.65
+"38" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" -3.39 "<" 0.01 0.00241623927589854 "t(24) = -3.39, p < .01" FALSE FALSE FALSE FALSE 0.65
+"39" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" 1.95 "=" 0.09 0.0629511208227308 "t(24) = 1.95, p = .09" TRUE FALSE FALSE FALSE 0.65
+"40" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" -1.49 "=" 0.16 0.149250074532736 "t(24) = -1.49, p = .16" TRUE FALSE FALSE FALSE 0.65
+"41" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" 6.82 "<" 1e-04 4.70708259167676e-07 "t(24) = 6.82, p < .0001" FALSE FALSE FALSE FALSE 0.65
+"42" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" -7.7 "<" 0.001 6.16598926347594e-08 "t(24) = -7.7, p < .001" FALSE FALSE FALSE FALSE 0.65
+"43" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" -2.03 "=" 0.054 0.0535818394000305 "t(24) = -2.03, p = .054" FALSE FALSE FALSE FALSE 0.65
+"44" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" -1.86 "=" 0.07 0.0751851226103893 "t(24) = -1.86, p = .07" FALSE FALSE FALSE FALSE 0.65
+"45" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" 0.341 "=" 0.74 0.736070826476269 "t(24) = 0.341, p = .74" FALSE FALSE FALSE FALSE 0.65
+"46" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" -2.373 "<" 0.05 0.0259987600262659 "t(24) = -2.373, p < .05" FALSE FALSE FALSE FALSE 0.65
+"47" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 24 "=" 6.42 "<" 0.001 1.22444158873056e-06 "t(24) = 6.42, p < .001" FALSE FALSE FALSE FALSE 0.65
+"48" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 3 97 "=" 19.2 "<" 0.001 7.46871872009738e-10 "F(3, 97) = 19.20, p < .001" FALSE FALSE FALSE FALSE 0.65
+"49" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 2 98 "=" 3.95 "<" 0.05 0.0223962684085495 "F(2, 98) = 3.95, p < .05" FALSE FALSE FALSE FALSE 0.65
+"50" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 6 94 "=" 7.83 "<" 0.001 7.56246760404643e-07 "F(6, 94) = 7.83, p < .001" FALSE FALSE FALSE FALSE 0.65
+"51" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 3 97 "=" 42.86 "<" 0.001 1.00744327471e-17 "F(3, 97) = 42.86, p < .001" FALSE FALSE FALSE FALSE 0.65
+"52" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 2 98 "=" 389.67 "<" 0.001 2.26385769203303e-47 "F(2, 98) = 389.67, p < .001" FALSE FALSE FALSE FALSE 0.65
+"53" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 6 94 "=" 5.997 "<" 0.001 2.43472325034972e-05 "F(6, 94) = 5.997, p < .001" FALSE FALSE FALSE FALSE 0.65
+"54" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" -2.65 "<" 0.01 0.00937143804553364 "t(99) = -2.65, p < .01" FALSE FALSE FALSE FALSE 0.65
+"55" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" -12.83 "<" 0.001 8.89504946268369e-23 "t(99) = -12.83, p < .001" FALSE FALSE FALSE FALSE 0.65
+"56" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" -24.52 "<" 0.001 7.58464214184443e-44 "t(99) = -24.52, p < .001" FALSE FALSE FALSE FALSE 0.65
+"57" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" -0.296 "=" 0.77 0.767850083651089 "t(99) = -0.296, p = .77" FALSE FALSE FALSE FALSE 0.65
+"58" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" -1.23 "=" 0.22 0.221611993866583 "t(99) = -1.23, p = .22" FALSE FALSE FALSE FALSE 0.65
+"59" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" 3.1 "<" 0.01 0.00252019582446376 "t(99) = 3.10, p < .01" FALSE FALSE FALSE FALSE 0.65
+"60" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" -5.02 "<" 1e-04 2.28408968361197e-06 "t(99) = -5.02, p < .0001" FALSE FALSE FALSE FALSE 0.65
+"61" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" -4.56 "<" 1e-04 1.46634286061025e-05 "t(99) = -4.56, p < .0001" FALSE FALSE FALSE FALSE 0.65
+"62" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "t" NA 99 "=" 4.31 "<" 0.001 3.85780912426641e-05 "t(99) = 4.31, p < .001" FALSE FALSE FALSE FALSE 0.65
+"63" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 2 98 "=" 2.93 "<" 0.05 0.0580911687502156 "F(2, 98) = 2.93, p < .05" TRUE TRUE TRUE FALSE 0.65
+"64" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 2 98 "=" 33.31 "<" 0.001 9.17129026242715e-12 "F(2, 98) = 33.31, p < .001" FALSE FALSE FALSE FALSE 0.65
+"65" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 2 98 "=" 312.965 "<" 0.001 2.78577197368856e-43 "F(2, 98) = 312.965, p < .001" FALSE FALSE FALSE FALSE 0.65
+"66" "AndersonAwh_2012_ThePlateauInMnemonicResolution" "F" 4 96 "=" 17.3 "<" 0.001 1.02083162759808e-10 "F(4, 96) = 17.30, p < .001" FALSE FALSE FALSE FALSE 0.65
+"67" "AndersonVogelAwh_2013_SelectionAndStorageOfPerceptualGroups" "t" NA 24 "=" 0.972 "=" 0.348 0.340745719071883 "t(24) = .972, p = .348" TRUE FALSE FALSE FALSE 0.2
+"68" "AndersonVogelAwh_2013_SelectionAndStorageOfPerceptualGroups" "t" NA 24 "=" 0.2 "=" 0.84 0.843165577165374 "t(24) = .2, p = .84" FALSE FALSE FALSE FALSE 0.2
+"69" "BrownCronkGrochow_2005_DanceRevealsSymmetry" "Z" NA NA "=" 2.25 "<" 0.03 0.0244489453100894 "Z = 2.25, P < 0.03" FALSE FALSE FALSE TRUE 0.05
+"70" "One and Done_ Optimal Decisions From Very Few Samples - Vul - 2014 - Cognitive Science - Wiley Online Library" "r" NA 25 "=" 0.61 "=" 0.0013 0.000729305828718095 "r(25) = .61, p = .0013" TRUE FALSE TRUE FALSE 0.67
+"71" "One and Done_ Optimal Decisions From Very Few Samples - Vul - 2014 - Cognitive Science - Wiley Online Library" "r" NA 25 "=" 0.61 "=" 0.0013 0.000729305828718095 "r(25) = .61,p = .0013" TRUE FALSE TRUE FALSE 0.67
+"72" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 144 "=" 0.12 ">" 0.72 0.729540140388427 "F(1, 144) = 0.12, p > .72" FALSE FALSE FALSE FALSE 0.32
+"73" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 144 "=" 8.44 "<" 0.01 0.0042503860507497 "F(1, 144) = 8.44, p < .01" FALSE FALSE FALSE FALSE 0.32
+"74" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 144 "=" 0.23 "=" 0.63 0.632251410096094 "F(1, 144) = 0.23, p = .63" FALSE FALSE FALSE FALSE 0.32
+"75" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 144 "=" 4.83 "=" 0.03 0.029566152405741 "F(1, 144) = 4.83, p = .03" FALSE FALSE FALSE FALSE 0.32
+"76" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 144 "=" 12.76 "<" 0.01 0.000482035506299896 "F(1, 144) = 12.76, p < .01" FALSE FALSE FALSE FALSE 0.32
+"77" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 49 "=" 9.19 "<" 0.01 0.00388137486352434 "F(1, 49) = 9.19, p < .01" FALSE FALSE FALSE FALSE 0.32
+"78" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 49 "=" 4.97 "<" 0.04 0.0304071017823959 "F(1, 49) = 4.97, p < .04" FALSE FALSE FALSE FALSE 0.32
+"79" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 99 "=" 3.6 "<" 0.01 0.000499257786211876 "t(99) = 3.60, p < .01" FALSE FALSE FALSE FALSE 0.32
+"80" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 97 "=" -5.56 "<" 0.01 2.37658905769566e-07 "t(97) = -5.56, p < .01" FALSE FALSE FALSE FALSE 0.32
+"81" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "Z" NA NA "=" -2.02 "<" 0.05 0.0433833875352936 "Z = -2.02, p < .05" FALSE FALSE FALSE FALSE 0.32
+"82" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 49 "=" 3.14 "<" 0.01 0.00286171566093314 "t(49) = 3.14, p < .01" FALSE FALSE FALSE FALSE 0.32
+"83" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 47 "=" -6.18 "<" 0.001 1.43666014069966e-07 "t(47) = -6.18, p < .001" FALSE FALSE FALSE FALSE 0.32
+"84" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 170 "=" 25.39 "<" 0.001 1.18886088471307e-06 "F(1, 170) = 25.39, p < .001" FALSE FALSE FALSE FALSE 0.32
+"85" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 170 "=" 3.78 "=" 0.054 0.05351932743959 "F(1, 170) = 3.78, p = .054" FALSE FALSE FALSE FALSE 0.32
+"86" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 170 "=" 4.46 "<" 0.04 0.0361588517526364 "F(1, 170) = 4.46, p < .04" FALSE FALSE FALSE FALSE 0.32
+"87" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 170 "=" 4.08 "<" 0.05 0.0449639218335815 "F(1, 170) = 4.08, p < .05" FALSE FALSE FALSE FALSE 0.32
+"88" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 170 "=" 4.55 "<" 0.05 0.0343536201555363 "F(1, 170) = 4.55, p < .05" FALSE FALSE FALSE FALSE 0.32
+"89" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 272 "=" 25.66 "<" 0.001 7.5238964028988e-07 "F(1, 272) = 25.66, p < .001" FALSE FALSE FALSE FALSE 0.32
+"90" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 272 "=" 10.18 "<" 0.01 0.00158608954550864 "F(1, 272) = 10.18, p < .01" FALSE FALSE FALSE FALSE 0.32
+"91" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 272 "=" 5.8 "<" 0.05 0.0166916809700835 "F(1, 272) = 5.80, p < .05" FALSE FALSE FALSE FALSE 0.32
+"92" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 34 "=" 16.03 "<" 0.001 0.000320360991158495 "F(1, 34) = 16.03, p < .001" FALSE FALSE FALSE FALSE 0.32
+"93" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 34 "=" 31.87 "<" 0.001 2.4890642521585e-06 "F(1, 34) = 31.87, p < .001" FALSE FALSE FALSE FALSE 0.32
+"94" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 136 "=" -4.3 "<" 0.01 3.23654653321998e-05 "t(136) = -4.30, p < .01" FALSE FALSE FALSE FALSE 0.32
+"95" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 135 "=" -4.37 "<" 0.01 2.45883751582025e-05 "t(135) = -4.37, p < .01" FALSE FALSE FALSE FALSE 0.32
+"96" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "Z" NA NA "=" -3.07 "<" 0.01 0.00214058770935785 "Z = -3.07, p < .01" FALSE FALSE FALSE FALSE 0.32
+"97" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 136 "=" 4.71 "<" 0.01 6.03908748923357e-06 "t(136) = 4.71, p < .01" FALSE FALSE FALSE FALSE 0.32
+"98" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 136 "=" 6.69 "<" 0.01 5.32995912843134e-10 "t(136) = 6.69, p < .01" FALSE FALSE FALSE FALSE 0.32
+"99" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 135 "=" -1.86 ">" 0.06 0.0650616951559497 "t(135) = -1.86, p > .06" FALSE FALSE FALSE FALSE 0.32
+"100" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 135 "=" 4.15 "<" 0.01 5.85209248323455e-05 "t(135) = 4.15, p < .01" FALSE FALSE FALSE FALSE 0.32
+"101" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "t" NA 170 "=" 0.84 ">" 0.4 0.402088185334985 "t(170) = 0.84, p > .40" FALSE FALSE FALSE FALSE 0.32
+"102" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 2 170 "=" 9.1 "<" 0.01 0.000175991095389045 "F(2, 170) = 9.10, p < .01" FALSE FALSE FALSE FALSE 0.32
+"103" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 170 "=" 0.45 ">" 0.49 0.503245324408384 "F(1, 170) = 0.45, p > .49" FALSE FALSE FALSE FALSE 0.32
+"104" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 49 "=" 9.19 "<" 0.01 0.00388137486352434 "F(1, 49) = 9.19, p < .01" FALSE FALSE FALSE FALSE 0.32
+"105" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 57 "=" 5.49 "<" 0.03 0.0226385520653668 "F(1, 57) = 5.49, p < .03" FALSE FALSE FALSE FALSE 0.32
+"106" "SmeestersMussweilerMandel_2009_EffectsOfThinAndHeavyMedia" "F" 1 57 "=" 5.27 "<" 0.03 0.0253952308015096 "F(1, 57) = 5.27, p < .03" FALSE FALSE FALSE FALSE 0.32
