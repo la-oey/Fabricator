@@ -1,0 +1,42 @@
+---
+title: "Statcheck"
+author: "Lauren Oey"
+date: "4/24/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(statcheck)
+library(tidyverse)
+cogsci <- read_csv("cogsci_papers.csv")
+```
+
+```{r}
+glimpse(cogsci)
+cs <- cogsci %>%
+  filter(full_text != "NA")
+
+glimpse(cs)
+cs <- cs %>%
+  mutate(Source=as.factor(1:nrow(cs)))
+
+# checkPDF() doesn't seem to be working
+# checkHTMLdir("htmls/")
+extractedStats <- statcheck(cs$full_text)
+extractedStats
+
+fullStats <- cs %>%
+  select(Source, year, authors, title) %>%
+  left_join(extractedStats, by="Source")
+
+write_csv(fullStats, "cogSciStats.csv")
+```
+
+```{r}
+fullStats %>%
+  filter(!is.na(Reported.P.Value)) %>%
+  ggplot(aes(x=Reported.P.Value)) +
+  geom_histogram() +
+  scale_x_continuous(limits=c(0,0.06), breaks=seq(0,0.06,by=0.005))
+```
