@@ -22,5 +22,5 @@ for (row in 1:nrow(paper)) {
 }
 
 txt <- v1[46]
-statcheck(v1[46])
+statcheck(v1[0])
 stat <- statcheck(v1[46])
