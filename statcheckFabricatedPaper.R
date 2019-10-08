@@ -1,14 +1,16 @@
 library("statcheck")
 library(lubridate)
 library(dplyr)
+library(readr)
+library(tidyverse)
 
 # set working directory
 # setwd("E:/UCSD/Lab/Computational Cognition Lab/GitHub/Fabricator")
 # set working directory
-setwd("E:/UCSD/Lab/Computational Cognition Lab/GitHub/Fabricator/")
+setwd("/Users/loey/Desktop/Research/FakeNews/Fabricator")
 
 # read csv file
-paper <- read.csv(file = 'elsevier/cognition/extract_2010.csv', encoding = "UTF-8", header=TRUE, sep=",")
+paper <- read_csv('elsevier/cognition/extract_2010.csv')
 nrow(paper)
 
 v1 <- paper[[3]]
