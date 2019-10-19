@@ -98,8 +98,7 @@ for year in years:
     print("The execution time is" + " %s minutes." % minute_time)
 
 """
-
-doi_2010 = [f"{i:06}" for i in range(350000, 400000)]
+"""doi_2010 = [f"{i:06}" for i in range(350000, 400000)]
 urls_2010 = []
 for doi in doi_2010:
     urls_2010.append('http://journals.sagepub.com/doi/full-xml/10.1177/0956797610' + doi)
@@ -114,6 +113,59 @@ with open('psychScience_2010.csv','w', encoding='utf-8') as csv_file:
         writer.writeheader()
 
         for url in urls_2010:
+        # loop through url list
+            response = requests.get(url)
+            # check if has content
+            if response:
+                try:
+                    doi = url
+                    soup = BeautifulSoup(response.text, 'html.parser')
+                    # title
+                    title = soup.find('title-group').find('article-title').get_text()
+                    sub = soup.find('title-group').find('subtitle')
+                    sub_title = ""
+                    if sub:
+                        sub_title = sub.get_text()
+                    # author
+                    first = soup.find('contrib-group').findAll('given-names')
+                    last = soup.find('contrib-group').findAll('surname')
+                    name = [i.text + " " + j.text for i, j in zip(first, last)]
+                    # date
+                    month = soup.find('pub-date').find('month').get_text()
+                    year = soup.find('pub-date').find('year').get_text()
+                    date = year + "/" + format(int(month), '02d')
+                    texts = response.text
+                    writer.writerow({'doi': doi, 'author': "; ".join(name), 'date': date, 'title': title , 'subtitle': sub_title, 'text': texts}) # , 'text': text
+                except:
+                    continue
+
+# record end time
+end_time = time.clock()
+minute_time = (end_time - start_time) / 60.0
+print("The execution time is" + " %s minutes." % minute_time)"""
+
+# 2009
+urls_2009 = []
+dois14 = [f"{i:05}" for i in range(2263, 2474)]
+dois15 = [f"{i:05}" for i in range(2475, 2480)]
+dois_2009 = dois14 + dois15
+for doi in dois_2009:
+    urls_2009.append('http://journals.sagepub.com/doi/full-xml/10.1111/j.1467-9280.2009.' + doi + '.x')
+
+dois16 = [f"{i:06}" for i in range(350000, 400000)]
+for doi in dois16:
+    urls_2009.append('http://journals.sagepub.com/doi/full-xml/10.1177/0956797609' + doi)
+
+# record start time
+start_time = time.clock()
+
+
+with open('psychScience_2009.csv','w', encoding='utf-8') as csv_file:
+        fieldnames = ['doi', 'author', 'date', 'title', 'subtitle', 'text']
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
+
+        for url in urls_2009:
         # loop through url list
             response = requests.get(url)
             # check if has content
